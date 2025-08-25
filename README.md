@@ -10,4 +10,9 @@ An import for the custom card Candour format into the game platform Cockatrice.
 6. Restart Cockatrice, and click yes to enable the new set(s) that have been found.
 
 # FOR IMAGES
-[WIP]
+1. Download Cockatrice if you haven't already ([Download it ONLY from their website](https://cockatrice.github.io/))
+2. Open the [Dropbox link](https://www.dropbox.com/scl/fo/q5g5ej5dr0x7qvp82n63x/APvZVIxo3m89baJ5D1Cxnco?rlkey=4yzgyipf2cuzafe69oftmk03u&st=24g4rnqt&dl=0) and download the shared Folder
+3. Open Cockatrice
+4. Under the "Card Database" tab click "Open Custom Image Folder"
+5. Move the folder you downloaded from Dropbox into this folder.
+6. Restart Cockatrice
