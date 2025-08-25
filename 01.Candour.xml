@@ -1,1 +1,929 @@
-<?xml version="1.0" encoding="UTF-8"?><cockatrice_carddatabase version="4">  <sets>	<set>		<name>CA0</name>		<longname>Candour: Base</longname>		<settype>Custom</settype>		<releasedate>2025-08-22</releasedate>	</set>  </sets>  <cards>	<card>		<name>Hedron Seraph</name>		<text>FlyingSacrifice this creature: Target creature you control gains protection from everything until end of turn.</text>		<prop>			<type>Creature - Angel Warrior</type>			<maintype>Creature</maintype>			<manacost>W</manacost>			<cmc>1</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>1/2</pt>		</prop>		<set rarity="uncommon" uuid="f6287d9a-1042-4249-b2da-f2e9b89d2aee" num="0001" muid="0001">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Impermanate</name>		<text>Exile target creature, then return it to the battlefield under its owner's control.Escape - {W}, Exile four other cards from your graveyard.</text>		<prop>			<type>Instant</type>			<maintype>Instant</maintype>			<manacost>W</manacost>			<cmc>1</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>		</prop>		<set rarity="uncommon" uuid="2b3f9405-8e91-4674-ba87-f8ac2dab3347" num="0002" muid="0002">CA0</set>		<tablerow>3</tablerow>	</card>	<card>		<name>Flickerfowl</name>		<text>FlashFlyingWhen this creature enters, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.</text>		<prop>			<type>Creature - Elemental</type>			<maintype>Creature</maintype>			<manacost>2W</manacost>			<cmc>3</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>1/2</pt>		</prop>		<set rarity="uncommon" uuid="ed22ab8a-8558-4a4b-961a-513fde617f89" num="0003" muid="0003">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Pride Runemage</name>		<text>Vigilance{T}: Target creature you control gains protection from the color of your choice until end of turn.</text>		<prop>			<type>Creature - Cat Cleric</type>			<maintype>Creature</maintype>			<manacost>1W</manacost>			<cmc>2</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>2/1</pt>		</prop>		<set rarity="rare" uuid="de16a52e-db01-4d96-9539-544e69c634ab" num="0004" muid="0004">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Keeper of Solitude</name>		<text>FlashIf a nontoken creature would enter and it wasn't cast, exile it instead. That creature's controller gains life equal to its power.</text>		<prop>			<type>Creature - Human Cleric</type>			<maintype>Creature</maintype>			<manacost>W</manacost>			<cmc>2</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>1/1</pt>		</prop>		<set rarity="rare" uuid="58a82c31-30d6-407a-9edf-9f0a5bd029b9" num="0005" muid="0005">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Cloudcloak Thief</name>		<text>When this creature enters, you may exile target artifact or enchantment.When this creature leaves the battlefield, return the exiled card to the battlefield under its owner's control.</text>		<prop>			<type>Creature - Human Wizard</type>			<maintype>Creature</maintype>			<manacost>W</manacost>			<cmc>1</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>2/1</pt>		</prop>		<set rarity="rare" uuid="5ce64f8f-0f53-4725-a60f-b374eed775bc" num="0006" muid="0006">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Ajani, White as Death</name>		<text>[+1]: Put a +1/+1 counter on up to one target creature.[0]: Until your next turn, target creature gains indestructible. Untap that creature.[-2]: Create a 2/2 white Cat creature token.</text>		<prop>			<type>Legendary Planeswalker - Ajani</type>			<maintype>Planeswalker</maintype>			<manacost>WW</manacost>			<cmc>2</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<loyalty>3</loyalty>		</prop>		<set rarity="mythic" uuid="33cd2528-55b8-40d1-b3d8-42dd55aaf918" num="0007" muid="0007">CA0</set>		<tablerow>1</tablerow>	</card>	<card>		<name>Bronzeforge Fanatic</name>		<text>VigilanceWhen this creature enters, search your library for an Equipment with mana value 2 or less, put it onto the battlefield, then shuffle.{T}: Attach target Equipment you control to target creature you control.</text>		<prop>			<type>Creature - Dwarf Warrior</type>			<maintype>Creature</maintype>			<manacost>1W</manacost>			<cmc>2</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>3/1</pt>		</prop>		<set rarity="rare" uuid="35443ca9-8e9a-4d06-acfa-1bb32ea23492" num="0008" muid="0008">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Emphatic Recruiter</name>		<text>Mentor (Whenver this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)When this creature enters, you may search your library for a creature card with toughness 1 or less, reveal it, put it into your hand, then shuffle.</text>		<prop>			<type>Creature - Human Soldier</type>			<maintype>Creature</maintype>			<manacost>1W</manacost>			<cmc>2</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>3/2</pt>		</prop>		<set rarity="rare" uuid="09b26105-3958-430e-bbce-614aad01aa95" num="0009" muid="0009">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Tinkerleaf Sprites</name>		<text>FlashFlying, lifelink{2}{W}, Exile this card from your graveyard: Create two 1/1 white Faerie artifact creature tokens with flying and lifelink.</text>		<prop>			<type>Artifact Creature - Faerie</type>			<maintype>Creature</maintype>			<manacost>W</manacost>			<cmc>2</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>1/1</pt>		</prop>		<set rarity="uncommon" uuid="1de0c319-165d-4152-8332-1bca288a8896" num="0010" muid="0010">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Journey to Oblivion</name>		<text>Exile target creature or planeswalker. Its controller creates a tapped colorless land token named Everywhere that is every basic land type.</text>		<prop>			<type>Instant</type>			<maintype>Instant</maintype>			<manacost>W</manacost>			<cmc>1</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>		</prop>		<set rarity="uncommon" uuid="269d5ad5-51d9-45b6-91ca-4c8805dad8a4" num="0011" muid="0011">CA0</set>		<tablerow>3</tablerow>	</card>	<card>		<name>Sunrise Champion</name>		<text>First StrikeConverge - When this creature enters, it explores a number of times equal to the number of colors of mana spent to cast this spell.</text>		<prop>			<type>Creature - Elf Scout</type>			<maintype>Creature</maintype>			<manacost>XW</manacost>			<cmc>1</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>1/1</pt>		</prop>		<set rarity="rare" uuid="4805b20c-885d-472c-aecb-ac084f5b4f32" num="0013" muid="0013">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Force of Justice</name>		<text>You may pay 1 life and exile a white card from your hand rather than pay this spell's mana cost.Exile target permanent with mana value 4 or greater.</text>		<prop>			<type>Instant</type>			<maintype>Instant</maintype>			<manacost>1WW</manacost>			<cmc>3</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>		</prop>		<set rarity="mythic" uuid="404afcee-f0c9-4164-ae5e-c3382ad92dbd" num="0013" muid="0013">CA0</set>		<tablerow>3</tablerow>	</card>	<card>		<name>Thought Partition</name>		<text>Look at target opponent's hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.</text>		<prop>			<type>Sorcery</type>			<maintype>Sorcery</maintype>			<manacost>W</manacost>			<cmc>1</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>		</prop>		<set rarity="rare" uuid="8c3bce81-52cd-409e-b553-52ebbca4b687" num="0014" muid="0014">CA0</set>		<tablerow>3</tablerow>	</card>	<card>        <name>Solar Sanction</name>        <text>When this enchantment enters, exile target nonland permanent an opponent controls with mana value 1 or less until this enchantment leaves the battlefield.Plainscycling {1} ({1}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>        <prop>            <type>Enchantment</type>            <maintype>Enchantment</maintype>            <manacost>W</manacost>            <cmc>1</cmc>            <colors>W</colors>            <coloridentity>W</coloridentity>        </prop>        <set rarity="uncommon" uuid="8d469b18-6930-4e3b-b942-1ca7b904f52b" num="0015" muid="0015">CA0</set>        <tablerow>1</tablerow>    </card>	<card>		<name>Exalted Solitude</name>		<text>FlashWhen this enchantment enters, draw a card.All nonbasic permanents are legendary.At the beginning of the end step, sacrifice this enchantment.</text>		<prop>			<type>Enchantment</type>			<maintype>Enchantment</maintype>			<manacost>1W</manacost>			<cmc>2</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>		</prop>		<set rarity="rare" uuid="3c8de393-35d4-4a71-9566-b5df6a084aaf" num="0016" muid="0016">CA0</set>		<tablerow>1</tablerow>	</card>	<card>		<name>Argivian Exemplar</name>		<text>This spell costs {2} less to cast for each creature you control.VigilanceWhen this creature enters, creatures you control get +2/+2 until end of turn.</text>		<prop>			<type>Creature - Human Soldier</type>			<maintype>Creature</maintype>			<manacost>8W</manacost>			<cmc>9</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>4/4</pt>		</prop>		<set rarity="mythic" uuid="e82ee643-9735-4f6f-bf72-f8c1565dc164" num="0017" muid="0017">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Ethereal Dissension</name>		<text>Exile each nonland permanent with mana value 2 or less.Foretell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.</text>		<prop>			<type>Sorcery</type>			<maintype>Sorcery</maintype>			<manacost>1WW</manacost>			<cmc>3</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>		</prop>		<set rarity="rare" uuid="69e38776-cea4-466a-a568-17e1d50026f2" num="0018" muid="0018">CA0</set>		<tablerow></tablerow>	</card>	<card>		<name>Sand-Strider Battalion</name>		<text>Whenever this creature attacks, you may pay {X}{X}. If you do, it endures X. (Put X +1/+1 counters on it or create an X/X white Spirit creature token.)</text>		<prop>			<type>Creature - Human Warrior</type>			<maintype>Creature</maintype>			<manacost>W</manacost>			<cmc>1</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>2/1</pt>		</prop>		<set rarity="rare" uuid="d15b1285-4913-430a-874e-0fe43c5e38a6" num="0019" muid="0019">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Veil of Spring</name>		<text>Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)You and permanents you control gain hexproof from black and from red until end of turn. Prevent all damage that black and/or red sources would deal this turn.</text>		<prop>			<type>Instant</type>			<maintype>Instant</maintype>			<manacost>W</manacost>			<cmc>1</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>		</prop>		<set rarity="uncommon" uuid="f7b1e787-e872-4ccd-a4e6-f75e771a05c8" num="0020" muid="0020">CA0</set>		<tablerow>3</tablerow>	</card>	<card>		<name>High Artificer of Eos</name>		<text>When this creature enters, you may search your library for an artifact card with mana value 1 or less, reveal it, put it in your hand, then shuffle.Sacrifice this creature: Your opponents can't cast nonartifact spells this turn.</text>		<prop>			<type>Creature - Human Artificer</type>			<maintype>Creature</maintype>			<manacost>1WW</manacost>			<cmc>3</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>3/3</pt>		</prop>		<set rarity="mythic" uuid="17f4c706-67fc-40c9-a034-6a96a4887a54" num="0021" muid="0021">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Labyrinth Sentinel</name>		<text>FlashWhen this creature enters and whenever an opponent draws a card except the first one they draw in each of their draw steps, create a 1/1 colorless Soldier artifact creature token.</text>		<prop>			<type>Artifact Creature - Soldier</type>			<maintype>Creature</maintype>			<manacost>1W</manacost>			<cmc>2</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>1/1</pt>		</prop>		<set rarity="rare" uuid="84b3d994-2fa5-47a2-912a-ccfa107eba43" num="0022" muid="0022">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Chromatic Seraph</name>		<text>FlyingWhen this creature enters, exile target creature an opponent controls until this creature leaves the battlefield.Other creatures you control gain protection from each color among cards exiled with this creature.</text>		<prop>			<type>Creature - Angel</type>			<maintype>Creature</maintype>			<manacost>2WW</manacost>			<cmc>4</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>4/3</pt>		</prop>		<set rarity="mythic" uuid="ffeb78d9-dcb5-4843-84b3-aff36e33b2d1" num="0023" muid="0023">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Sanctity</name>		<text>LifelinkWhen this creature enters, return target creature card with mana value 3 or less from your graveyard to the battlefield.Evoke - Exile a white card from your hand.</text>		<prop>			<type>Creature - Elemental Incarnation</type>			<maintype>Creature</maintype>			<manacost>2WW</manacost>			<cmc>4</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>3/3</pt>		</prop>		<set rarity="mythic" uuid="c7266c35-53b4-4a0f-ae3c-f47aacfeee6e" num="0024" muid="0024">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Divine Tutor</name>		<text>Search your library for an artifact or enchantment card, reveal it, put it into your hand, then shuffle. Exile Divine Tutor.</text>		<prop>			<type>Sorcery</type>			<maintype>Sorcery</maintype>			<manacost>1W</manacost>			<cmc>2</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>		</prop>		<set rarity="mythic" uuid="1c92a055-de6f-4bba-b845-f36ae455f983" num="0025" muid="0025">CA0</set>		<tablerow>3</tablerow>	</card>	<card>		<name>Tranquil Brightblade</name>		<text>VigilanceWhen this creature enters, draw a card. Then discard a card unless you control an artifact.</text>		<prop>			<type>Creature - Cat Cleric</type>			<maintype>Creature</maintype>			<manacost>1W</manacost>			<cmc>2</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>3/1</pt>		</prop>		<set rarity="uncommon" uuid="f322b878-97ff-4005-afaa-165ee3cee6db" num="0026" muid="0026">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Parallax Procession</name>		<text>This enchantment enters with four fate counters on it.Remove a fate counter from this enchantment: Exil target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.</text>		<prop>			<type>Enchantment</type>			<maintype>Enchantment</maintype>			<manacost>2WW</manacost>			<cmc>4</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>		</prop>		<set rarity="rare" uuid="48830557-b26a-4672-94fe-0082bb5875ac" num="0027" muid="0027">CA0</set>		<tablerow>1</tablerow>	</card>	<card>		<name>Duskspine Leopard</name>		<text>ConvokeLifelinkWhen you cast this spell, destroy up to one target nonland permanent. Its controller creates a tapped Everywhere token.</text>		<prop>			<type>Creature - Elemental Cat</type>			<maintype>Creature</maintype>			<manacost>3WW</manacost>			<cmc>5</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>4/5</pt>		</prop>		<set rarity="mythic" uuid="8b14d5fe-f887-44ee-9c12-4a95450f9fdc" num="0028" muid="0028">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>White Orchid Exile</name>		<text>When this creature enters, you may sacrifice a land. If you do, create a 2/2 white Knight creature token.Warp {W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end ste, then you may cast it from exile on a later turn.)</text>		<prop>			<type>Creature - Spirit Knight</type>			<maintype>Creature</maintype>			<manacost>1W</manacost>			<cmc>2</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>1/1</pt>		</prop>		<set rarity="uncommon" uuid="8a766105-3916-4b39-b06a-52fb035296b8" num="0029" muid="0029">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Sarpadian Dreadlands</name>		<text>{T}: Add {W}</text>		<prop>			<type>Land - Desert</type>			<maintype>Land</maintype>			<manacost>0</manacost>			<cmc>0</cmc>			<coloridentity>W</coloridentity>		</prop>		<set rarity="rare" uuid="ec60f9a4-8df1-4d3c-aae5-afced3f57e66" num="0030" muid="0030">CA0</set>		<tablerow>0</tablerow>	</card>	<card>		<name>Dune Rager</name>		<text>When this creature enters, return target permanent card with mana value 2 or less from your graveyard to the battlefield.</text>		<prop>			<type>Creature - Elemental</type>			<maintype>Creature</maintype>			<manacost>W</manacost>			<cmc>1</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>2/1</pt>		</prop>		<set rarity="rare" uuid="ba038df2-3f64-4c8b-82e3-24150d48274d" num="0031" muid="0031">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Snowy Standoff</name>		<text>Snowy Standoff deals 3 damage to target attacking or blocking creature. If that creature would die this turn, exile it and create a Food token instead.</text>		<prop>			<type>Instant</type>			<maintype>Instant</maintype>			<manacost>W</manacost>			<cmc>1</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>		</prop>		<set rarity="uncommon" uuid="0f508085-7bd9-424e-8a48-0ca004540635" num="0032" muid="0032">CA0</set>		<tablerow>3</tablerow>	</card>	<card>		<name>Ceaseless Dragon</name>		<text>FlyingWhen this creature enters, search your library for a Plains card, put it into your hand, then shuffle. You gain 2 life.You may cast this card from your graveyard using its warp ability.Warp {1}{W}</text>		<prop>			<type>Creature - Dragon</type>			<maintype>Creature</maintype>			<manacost>3WW</manacost>			<cmc>5</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>5/5</pt>		</prop>		<set rarity="rare" uuid="254fc8a6-5589-4826-9534-bd984ea792ef" num="0033" muid="0033">CA0</set>		<tablerow></tablerow>	</card>	<card>		<name>Lotus Herald</name>		<text>FlashFlyingWhen this creature enters, if an opponent controls more lands than you, create a Black Lotus token. (It's a {0} Artifact with "{T}, Sacrifice this artifact: Add three mana of any one color."</text>		<prop>			<type>Creature - Angel</type>			<maintype>Creature</maintype>			<manacost>1W</manacost>			<cmc>2</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>1/2</pt>		</prop>		<set rarity="mythic" uuid="664e6ccd-26f6-48e5-b458-309257047624" num="0034" muid="0034">CA0</set>		<related>Black Lotus</related>		<tablerow>2</tablerow>	</card>	<card>		<name>Dormant Chromeseed</name>		<text>When this artifact enters or leaves the battlefield, return target creature card with mana value 3 or less from your graveyard to the battlefield.{3}{W}, Sacrifice this artifact: Draw a card.</text>		<prop>			<type>Artifact</type>			<maintype>Artifact</maintype>			<manacost>1W</manacost>			<cmc>2</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>		</prop>		<set rarity="uncommon" uuid="bcd5285b-4379-4266-b7cb-f0fda6bad9e1" num="0035" muid="0035">CA0</set>		<tablerow>1</tablerow>	</card>	<card>		<name>Scenic Detour</name>		<text>Put target tapped creature into its owner's library just beneath the top X cards of that library.Draw a card.</text>		<prop>			<type>Instant</type>			<maintype>Instant</maintype>			<manacost>X1W</manacost>			<cmc>2</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>		</prop>		<set rarity="rare" uuid="8ca85992-82b8-43de-ab69-32be7d5c678c" num="0036" muid="0036">CA0</set>		<tablerow></tablerow>	</card>	<card>		<name>Lightrender Archon</name>		<text>FlyingIf a card or token would be put into a graveyard from anywhere, exile it instead.Players can't pay life, sacrifice permanents, or discard cards to cast spells or activate abilities.</text>		<prop>			<type>Creature - Archon</type>			<maintype>Creature</maintype>			<manacost>2W</manacost>			<cmc>3</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>3/3</pt>		</prop>		<set rarity="rare" uuid="cce13cd0-93f7-4dbc-bdb9-ccd090908e8b" num="0037" muid="0037">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Young Animator</name>		<text>Ward {2}When this creature enters, target artifact you control becomes an artifact creature with base power and toughness 3/3 for as long as this creature remains on the battlefield.</text>		<prop>			<type>Creature - Human</type>			<maintype>Creature</maintype>			<manacost>W</manacost>			<cmc>1</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>1/</pt>		</prop>		<set rarity="rare" uuid="5c39c3a1-952f-45a0-9b09-ba46c8bd17a9" num="0038" muid="0038">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Duskspine Cultivation</name>		<text>Destroy target noncreature permanent. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>		<prop>			<type>Sorcery</type>			<maintype>Sorcery</maintype>			<manacost>1W</manacost>			<cmc>2</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>		</prop>		<set rarity="uncommon" uuid="d5f28270-c9de-4e8c-abec-fb0ac065a602" num="0039" muid="0039">CA0</set>		<tablerow>3</tablerow>	</card>	<card>		<name>Duskwing Glider</name>		<text>FlyingWhen this creature enters, you gain 1 life and draw a card.</text>		<prop>			<type>Creature - Bird</type>			<maintype>Creature</maintype>			<manacost>1W</manacost>			<cmc>2</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>2/1</pt>		</prop>		<set rarity="uncommon" uuid="b18d26ef-bc11-4741-b4b4-734d7b57a6a0" num="0040" muid="0040">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Basri, Oketra's Faithful</name>		<text>First strikeWhen Basri enters, return any number of target creature cards with total power 3 or less from your graveyard to the battlefield.</text>		<prop>			<type>Legendary Creature - Human Warrior</type>			<maintype>Creature</maintype>			<manacost>3W</manacost>			<cmc>4</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>4/2</pt>		</prop>		<set rarity="mythic" uuid="24c786c9-a6b6-4fdc-b197-f6ac6a78b57c" num="0041" muid="0041">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Windsculptor Prodigy</name>		<text>FlyingCreatures and nonbasic lands your opponents control enter tapped.{3}{W}, Sacrifice this creature: Destroy target tapped creature.</text>		<prop>			<type>Creature - Human Wizard</type>			<maintype>Creature</maintype>			<manacost>WW</manacost>			<cmc>2</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>2/1</pt>		</prop>		<set rarity="rare" uuid="bb72b9c0-75a1-4840-8c24-a0b6c42840f9" num="0042" muid="0042">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Herald of Sovereignty</name>		<text>FlyingWhenever this creature enters or attacks, each opponent chooses a permanent of each permanent type and sacrifices them.</text>		<prop>			<type>Creature - Angel</type>			<maintype>Creature</maintype>			<manacost>6WW</manacost>			<cmc>8</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>6/6</pt>		</prop>		<set rarity="mythic" uuid="1f0c6e6a-e63d-4689-b619-127cd023d411" num="0043" muid="0043">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Ria Ivor, Corrupted Champion</name>		<text>When Ria Ivor enters, create two 2/2 white Knight creature tokens.Whenever you attack, creatures you control get +2/+2 until end of turn.Blitz {4}{W}</text>		<prop>			<type>Legendary Creature - Phyrexian Knight</type>			<maintype>Creature</maintype>			<manacost>5W</manacost>			<cmc>6</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>5/5</pt>		</prop>		<set rarity="mythic" uuid="bbae3e51-3978-4164-9699-d7ded4fc9e07" num="0044" muid="0044">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Nullmancer</name>		<text>Activated abilities can't be activated unless they're mana abilities.</text>		<prop>			<type>Creature - Human Wizard</type>			<maintype>Creature</maintype>			<manacost>W</manacost>			<cmc>1</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>1/1</pt>		</prop>		<set rarity="rare" uuid="7ad51965-d5fa-4eb7-a82f-22e73ac4a9b3" num="0045" muid="0045">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Gilded Pouncer</name>		<text>FlashWard {2}Double StrikeCycling {2}Eternalize {2}{W}{W}</text>		<prop>			<type>Creature - Cat</type>			<maintype>Creature</maintype>			<manacost>1W</manacost>			<cmc>2</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>1/2</pt>		</prop>		<set rarity="rare" uuid="4483f2f4-db4c-4f75-82b0-03769f0f2923" num="0046" muid="0046">CA0</set>		<tablerow>2</tablerow>	</card> 	<card>		<name>Angelic Wrath</name>		<text>Exile all creatures. Create a 4/4 white Angel creature token with flying and vigilance.</text>		<prop>			<type>Sorcery</type>			<maintype>Sorcery</maintype>			<manacost>3WW</manacost>			<cmc>5</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>		</prop>		<set rarity="rare" uuid="dbef46d8-795f-44d8-ab16-73d1c682660f" num="0047" muid="0047">CA0</set>		<tablerow>3</tablerow>	</card>	<card>		<name>Alabaster Equipoise</name>		<text>Each opponent who controls more lands than you sacrifices a land. Each opponent who controls more creatures than you sacrifices a creature. Draw a card if an opponent has more cards in hand than you. You gain 4 life if an opponent has more life than you.</text>		<prop>			<type>Sorcery</type>			<maintype>Sorcery</maintype>			<manacost>2W</manacost>			<cmc>3</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>		</prop>		<set rarity="mythic" uuid="736f94f0-8491-44a7-ad20-f069c0f2d5c1" num="0048" muid="0048">CA0</set>		<tablerow>3</tablerow>	</card>	<card>		<name>Renewed Blessing</name>		<text>Draw a card if you control an artifact or enchantment.Splice onto instant or sorcery {1}{W} (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.</text>		<prop>			<type>Sorcery</type>			<maintype>Sorcery</maintype>			<manacost>W</manacost>			<cmc>1</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>		</prop>		<set rarity="rare" uuid="2941e1ec-cf50-4e2b-9de5-7cc99d779e46" num="0049" muid="0049">CA0</set>		<tablerow>3</tablerow>	</card>	<card>		<name>Sunblaze Exemplar</name>		<text>LifelinkRecover - Remove a counter from a creature you control. (When another creature is put into your graveyard from the battlefield, remove a counter from a creature you control. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.</text>		<prop>			<type>Creature - Human Warrior</type>			<maintype>Creature</maintype>			<manacost>W</manacost>			<cmc>1</cmc>			<colors>W</colors>			<coloridentity>W</coloridentity>			<pt>2/1</pt>		</prop>		<set rarity="rare" uuid="93bbb33f-0ebb-428a-ba4e-d67b99bf7d4c" num="0050" muid="0050">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Maddening Revelation</name>		<text>Kicker - Discard a card. (You may discard a card in addition to any other costs as you cast this spell.)Counter target noncreature spell unless its controller pays {2}. If this spell was kicked, counter that spell unlesss its controller pays {4} instead.</text>		<prop>			<type>Instant</type>			<maintype>Instant</maintype>			<manacost>U</manacost>			<cmc>1</cmc>			<colors>U</colors>			<coloridentity>U</coloridentity>		</prop>		<set rarity="uncommon" uuid="3a77a5d7-22f1-461f-8380-46dd9f106c84" num="0051" muid="0051">CA0</set>		<tablerow>3</tablerow>	</card>	<card>		<name>Fleeting Rootwalla</name>		<text>{U}: This creature gets +2/+0 and can't be blocked until end of turn. Activate only once each turn.Madness {0} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)(</text>		<prop>			<type>Creature - Lizard</type>			<maintype>Creature</maintype>			<manacost>U</manacost>			<cmc>1</cmc>			<colors>U</colors>			<coloridentity>U</coloridentity>			<pt>1/2</pt>		</prop>		<set rarity="uncommon" uuid="12a79510-7c0f-4027-a237-d7cc9049af58" num="0052" muid="0052">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Seeker of Secrets</name>		<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)When this creature enters, draw a card.</text>		<prop>			<type>Creature - Merfolk</type>			<maintype>Creature</maintype>			<manacost>3U</manacost>			<cmc>4</cmc>			<colors>U</colors>			<coloridentity>U</coloridentity>			<pt>2/1</pt>		</prop>		<set rarity="uncommon" uuid="856f0477-b39f-4112-8b7d-abbb3f89fae0" num="0053" muid="0053">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Pilgrim of the Wind</name>		<text>FlashFlyingWhen this creature enters, tap target creature an opponent controls and put a stun counter on it. It loses all abilities until end of turn.</text>		<prop>			<type>Creature - Bird Wizard</type>			<maintype>Creature</maintype>			<manacost>1U</manacost>			<cmc>2</cmc>			<colors>U</colors>			<coloridentity>U</coloridentity>			<pt>2/2</pt>		</prop>		<set rarity="uncommon" uuid="" num="0054" muid="0054">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Mirror Crisis</name>		<text>Choose target creature. The next time one or more creatures enter this turn, they enter as copies of the chosen creature.Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>		<prop>			<type>Instant</type>			<maintype>Instant</maintype>			<manacost>U</manacost>			<cmc>1</cmc>			<colors>U</colors>			<coloridentity>U</coloridentity>		</prop>		<set rarity="rare" uuid="a2dca26f-4ef8-46ea-a23b-13df1b970688" num="0055" muid="0055">CA0</set>		<tablerow>3</tablerow>	</card>	<card>		<name>Reap the Catacombs</name>		<text>Surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)Channel - {2}{U}, Discard this card: Return target instant or sorcery card from your graveyard to your hand.</text>		<prop>			<type>Instant</type>			<maintype>Instant</maintype>			<manacost>U</manacost>			<cmc></cmc>			<colors>U</colors>			<coloridentity>U</coloridentity>		</prop>		<set rarity="uncommon" uuid="5ff17d80-6a9d-42ce-93de-247c7f15929f" num="0056" muid="0056">CA0</set>		<tablerow>3</tablerow>	</card>	<card>		<name>Knight of the Tides</name>		<text>When this creature enters, draw two cards then discard two cards.Threshold - This creature gets +2/+2 and can't be blocked as long as seven or more cards are in your graveyard.</text>		<prop>			<type>Creature - Human Knight</type>			<maintype>Creature</maintype>			<manacost>1U</manacost>			<cmc>2</cmc>			<colors>U</colors>			<coloridentity>U</coloridentity>			<pt>2/1</pt>		</prop>		<set rarity="rare" uuid="87a42138-8490-46df-829b-3d86cbdc7fa1" num="0057" muid="0057">CA0</set>		<tablerow>2</tablerow>	</card>	<card>		<name>Predestine</name>		<text>Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</text>		<prop>			<type>Sorcery</type>			<maintype>Sorcery</maintype>			<manacost>U</manacost>			<cmc>1</cmc>			<colors>U</colors>			<coloridentity>U</coloridentity>		</prop>		<set rarity="uncommon" uuid="28e68417-0d66-42d1-8f91-c4ff85afaae6" num="0058" muid="0058">CA0</set>		<tablerow>3</tablerow>	</card>  </cards></cockatrice_carddatabase>
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+	<set>
+		<name>CA0</name>
+		<longname>Candour: Base</longname>
+		<settype>Custom</settype>
+		<releasedate>2025-08-22</releasedate>
+	</set>
+  </sets>
+  <cards>
+	<card>
+		<name>Hedron Seraph</name>
+		<text>Flying
+Sacrifice this creature: Target creature you control gains protection from everything until end of turn.</text>
+		<prop>
+			<type>Creature - Angel Warrior</type>
+			<maintype>Creature</maintype>
+			<manacost>W</manacost>
+			<cmc>1</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>1/2</pt>
+		</prop>
+		<set rarity="uncommon" uuid="f6287d9a-1042-4249-b2da-f2e9b89d2aee" num="0001" muid="0001">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Impermanate</name>
+		<text>Exile target creature, then return it to the battlefield under its owner's control.
+Escape - {W}, Exile four other cards from your graveyard.</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>W</manacost>
+			<cmc>1</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="2b3f9405-8e91-4674-ba87-f8ac2dab3347" num="0002" muid="0002">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Flickerfowl</name>
+		<text>Flash
+Flying
+When this creature enters, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.</text>
+		<prop>
+			<type>Creature - Elemental</type>
+			<maintype>Creature</maintype>
+			<manacost>2W</manacost>
+			<cmc>3</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>1/2</pt>
+		</prop>
+		<set rarity="uncommon" uuid="ed22ab8a-8558-4a4b-961a-513fde617f89" num="0003" muid="0003">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Pride Runemage</name>
+		<text>Vigilance
+{T}: Target creature you control gains protection from the color of your choice until end of turn.</text>
+		<prop>
+			<type>Creature - Cat Cleric</type>
+			<maintype>Creature</maintype>
+			<manacost>1W</manacost>
+			<cmc>2</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>2/1</pt>
+		</prop>
+		<set rarity="rare" uuid="de16a52e-db01-4d96-9539-544e69c634ab" num="0004" muid="0004">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Keeper of Solitude</name>
+		<text>Flash
+If a nontoken creature would enter and it wasn't cast, exile it instead. That creature's controller gains life equal to its power.</text>
+		<prop>
+			<type>Creature - Human Cleric</type>
+			<maintype>Creature</maintype>
+			<manacost>W</manacost>
+			<cmc>2</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="rare" uuid="58a82c31-30d6-407a-9edf-9f0a5bd029b9" num="0005" muid="0005">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Cloudcloak Thief</name>
+		<text>When this creature enters, you may exile target artifact or enchantment.
+When this creature leaves the battlefield, return the exiled card to the battlefield under its owner's control.</text>
+		<prop>
+			<type>Creature - Human Wizard</type>
+			<maintype>Creature</maintype>
+			<manacost>W</manacost>
+			<cmc>1</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>2/1</pt>
+		</prop>
+		<set rarity="rare" uuid="5ce64f8f-0f53-4725-a60f-b374eed775bc" num="0006" muid="0006">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Ajani, White as Death</name>
+		<text>[+1]: Put a +1/+1 counter on up to one target creature.
+[0]: Until your next turn, target creature gains indestructible. Untap that creature.
+[-2]: Create a 2/2 white Cat creature token.</text>
+		<prop>
+			<type>Legendary Planeswalker - Ajani</type>
+			<maintype>Planeswalker</maintype>
+			<manacost>WW</manacost>
+			<cmc>2</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<loyalty>3</loyalty>
+		</prop>
+		<set rarity="mythic" uuid="33cd2528-55b8-40d1-b3d8-42dd55aaf918" num="0007" muid="0007">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Bronzeforge Fanatic</name>
+		<text>Vigilance
+When this creature enters, search your library for an Equipment with mana value 2 or less, put it onto the battlefield, then shuffle.
+{T}: Attach target Equipment you control to target creature you control.</text>
+		<prop>
+			<type>Creature - Dwarf Warrior</type>
+			<maintype>Creature</maintype>
+			<manacost>1W</manacost>
+			<cmc>2</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>3/1</pt>
+		</prop>
+		<set rarity="rare" uuid="35443ca9-8e9a-4d06-acfa-1bb32ea23492" num="0008" muid="0008">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Emphatic Recruiter</name>
+		<text>Mentor (Whenver this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+When this creature enters, you may search your library for a creature card with toughness 1 or less, reveal it, put it into your hand, then shuffle.</text>
+		<prop>
+			<type>Creature - Human Soldier</type>
+			<maintype>Creature</maintype>
+			<manacost>1W</manacost>
+			<cmc>2</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>3/2</pt>
+		</prop>
+		<set rarity="rare" uuid="09b26105-3958-430e-bbce-614aad01aa95" num="0009" muid="0009">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Tinkerleaf Sprites</name>
+		<text>Flash
+Flying, lifelink
+{2}{W}, Exile this card from your graveyard: Create two 1/1 white Faerie artifact creature tokens with flying and lifelink.</text>
+		<prop>
+			<type>Artifact Creature - Faerie</type>
+			<maintype>Creature</maintype>
+			<manacost>W</manacost>
+			<cmc>2</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="uncommon" uuid="1de0c319-165d-4152-8332-1bca288a8896" num="0010" muid="0010">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Journey to Oblivion</name>
+		<text>Exile target creature or planeswalker. Its controller creates a tapped colorless land token named Everywhere that is every basic land type.</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>W</manacost>
+			<cmc>1</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="269d5ad5-51d9-45b6-91ca-4c8805dad8a4" num="0011" muid="0011">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Sunrise Champion</name>
+		<text>First Strike
+Converge - When this creature enters, it explores a number of times equal to the number of colors of mana spent to cast this spell.</text>
+		<prop>
+			<type>Creature - Elf Scout</type>
+			<maintype>Creature</maintype>
+			<manacost>XW</manacost>
+			<cmc>1</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="rare" uuid="4805b20c-885d-472c-aecb-ac084f5b4f32" num="0013" muid="0013">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Force of Justice</name>
+		<text>You may pay 1 life and exile a white card from your hand rather than pay this spell's mana cost.
+Exile target permanent with mana value 4 or greater.</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>1WW</manacost>
+			<cmc>3</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+		</prop>
+		<set rarity="mythic" uuid="404afcee-f0c9-4164-ae5e-c3382ad92dbd" num="0013" muid="0013">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Thought Partition</name>
+		<text>Look at target opponent's hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>W</manacost>
+			<cmc>1</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="8c3bce81-52cd-409e-b553-52ebbca4b687" num="0014" muid="0014">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+        <name>Solar Sanction</name>
+        <text>When this enchantment enters, exile target nonland permanent an opponent controls with mana value 1 or less until this enchantment leaves the battlefield.
+Plainscycling {1} ({1}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
+        <prop>
+            <type>Enchantment</type>
+            <maintype>Enchantment</maintype>
+            <manacost>W</manacost>
+            <cmc>1</cmc>
+            <colors>W</colors>
+            <coloridentity>W</coloridentity>
+        </prop>
+        <set rarity="uncommon" uuid="8d469b18-6930-4e3b-b942-1ca7b904f52b" num="0015" muid="0015">CA0</set>
+        <tablerow>1</tablerow>
+    </card>
+	<card>
+		<name>Exalted Solitude</name>
+		<text>Flash
+When this enchantment enters, draw a card.
+All nonbasic permanents are legendary.
+At the beginning of the end step, sacrifice this enchantment.</text>
+		<prop>
+			<type>Enchantment</type>
+			<maintype>Enchantment</maintype>
+			<manacost>1W</manacost>
+			<cmc>2</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="3c8de393-35d4-4a71-9566-b5df6a084aaf" num="0016" muid="0016">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Argivian Exemplar</name>
+		<text>This spell costs {2} less to cast for each creature you control.
+Vigilance
+When this creature enters, creatures you control get +2/+2 until end of turn.</text>
+		<prop>
+			<type>Creature - Human Soldier</type>
+			<maintype>Creature</maintype>
+			<manacost>8W</manacost>
+			<cmc>9</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>4/4</pt>
+		</prop>
+		<set rarity="mythic" uuid="e82ee643-9735-4f6f-bf72-f8c1565dc164" num="0017" muid="0017">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Ethereal Dissension</name>
+		<text>Exile each nonland permanent with mana value 2 or less.
+Foretell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>1WW</manacost>
+			<cmc>3</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="69e38776-cea4-466a-a568-17e1d50026f2" num="0018" muid="0018">CA0</set>
+		<tablerow></tablerow>
+	</card>
+	<card>
+		<name>Sand-Strider Battalion</name>
+		<text>Whenever this creature attacks, you may pay {X}{X}. If you do, it endures X. (Put X +1/+1 counters on it or create an X/X white Spirit creature token.)</text>
+		<prop>
+			<type>Creature - Human Warrior</type>
+			<maintype>Creature</maintype>
+			<manacost>W</manacost>
+			<cmc>1</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>2/1</pt>
+		</prop>
+		<set rarity="rare" uuid="d15b1285-4913-430a-874e-0fe43c5e38a6" num="0019" muid="0019">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Veil of Spring</name>
+		<text>Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
+You and permanents you control gain hexproof from black and from red until end of turn. Prevent all damage that black and/or red sources would deal this turn.</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>W</manacost>
+			<cmc>1</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="f7b1e787-e872-4ccd-a4e6-f75e771a05c8" num="0020" muid="0020">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>High Artificer of Eos</name>
+		<text>When this creature enters, you may search your library for an artifact card with mana value 1 or less, reveal it, put it in your hand, then shuffle.
+Sacrifice this creature: Your opponents can't cast nonartifact spells this turn.</text>
+		<prop>
+			<type>Creature - Human Artificer</type>
+			<maintype>Creature</maintype>
+			<manacost>1WW</manacost>
+			<cmc>3</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>3/3</pt>
+		</prop>
+		<set rarity="mythic" uuid="17f4c706-67fc-40c9-a034-6a96a4887a54" num="0021" muid="0021">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Labyrinth Sentinel</name>
+		<text>Flash
+When this creature enters and whenever an opponent draws a card except the first one they draw in each of their draw steps, create a 1/1 colorless Soldier artifact creature token.</text>
+		<prop>
+			<type>Artifact Creature - Soldier</type>
+			<maintype>Creature</maintype>
+			<manacost>1W</manacost>
+			<cmc>2</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="rare" uuid="84b3d994-2fa5-47a2-912a-ccfa107eba43" num="0022" muid="0022">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Chromatic Seraph</name>
+		<text>Flying
+When this creature enters, exile target creature an opponent controls until this creature leaves the battlefield.
+Other creatures you control gain protection from each color among cards exiled with this creature.</text>
+		<prop>
+			<type>Creature - Angel</type>
+			<maintype>Creature</maintype>
+			<manacost>2WW</manacost>
+			<cmc>4</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>4/3</pt>
+		</prop>
+		<set rarity="mythic" uuid="ffeb78d9-dcb5-4843-84b3-aff36e33b2d1" num="0023" muid="0023">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Sanctity</name>
+		<text>Lifelink
+When this creature enters, return target creature card with mana value 3 or less from your graveyard to the battlefield.
+Evoke - Exile a white card from your hand.</text>
+		<prop>
+			<type>Creature - Elemental Incarnation</type>
+			<maintype>Creature</maintype>
+			<manacost>2WW</manacost>
+			<cmc>4</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>3/3</pt>
+		</prop>
+		<set rarity="mythic" uuid="c7266c35-53b4-4a0f-ae3c-f47aacfeee6e" num="0024" muid="0024">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Divine Tutor</name>
+		<text>Search your library for an artifact or enchantment card, reveal it, put it into your hand, then shuffle. Exile Divine Tutor.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>1W</manacost>
+			<cmc>2</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+		</prop>
+		<set rarity="mythic" uuid="1c92a055-de6f-4bba-b845-f36ae455f983" num="0025" muid="0025">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Tranquil Brightblade</name>
+		<text>Vigilance
+When this creature enters, draw a card. Then discard a card unless you control an artifact.</text>
+		<prop>
+			<type>Creature - Cat Cleric</type>
+			<maintype>Creature</maintype>
+			<manacost>1W</manacost>
+			<cmc>2</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>3/1</pt>
+		</prop>
+		<set rarity="uncommon" uuid="f322b878-97ff-4005-afaa-165ee3cee6db" num="0026" muid="0026">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Parallax Procession</name>
+		<text>This enchantment enters with four fate counters on it.
+Remove a fate counter from this enchantment: Exil target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.</text>
+		<prop>
+			<type>Enchantment</type>
+			<maintype>Enchantment</maintype>
+			<manacost>2WW</manacost>
+			<cmc>4</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="48830557-b26a-4672-94fe-0082bb5875ac" num="0027" muid="0027">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Duskspine Leopard</name>
+		<text>Convoke
+Lifelink
+When you cast this spell, destroy up to one target nonland permanent. Its controller creates a tapped Everywhere token.</text>
+		<prop>
+			<type>Creature - Elemental Cat</type>
+			<maintype>Creature</maintype>
+			<manacost>3WW</manacost>
+			<cmc>5</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>4/5</pt>
+		</prop>
+		<set rarity="mythic" uuid="8b14d5fe-f887-44ee-9c12-4a95450f9fdc" num="0028" muid="0028">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>White Orchid Exile</name>
+		<text>When this creature enters, you may sacrifice a land. If you do, create a 2/2 white Knight creature token.
+Warp {W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end ste, then you may cast it from exile on a later turn.)</text>
+		<prop>
+			<type>Creature - Spirit Knight</type>
+			<maintype>Creature</maintype>
+			<manacost>1W</manacost>
+			<cmc>2</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="uncommon" uuid="8a766105-3916-4b39-b06a-52fb035296b8" num="0029" muid="0029">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Sarpadian Dreadlands</name>
+		<text>{T}: Add {W}</text>
+		<prop>
+			<type>Land - Desert</type>
+			<maintype>Land</maintype>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<coloridentity>W</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="ec60f9a4-8df1-4d3c-aae5-afced3f57e66" num="0030" muid="0030">CA0</set>
+		<tablerow>0</tablerow>
+	</card>
+	<card>
+		<name>Dune Rager</name>
+		<text>When this creature enters, return target permanent card with mana value 2 or less from your graveyard to the battlefield.</text>
+		<prop>
+			<type>Creature - Elemental</type>
+			<maintype>Creature</maintype>
+			<manacost>W</manacost>
+			<cmc>1</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>2/1</pt>
+		</prop>
+		<set rarity="rare" uuid="ba038df2-3f64-4c8b-82e3-24150d48274d" num="0031" muid="0031">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Snowy Standoff</name>
+		<text>Snowy Standoff deals 3 damage to target attacking or blocking creature. If that creature would die this turn, exile it and create a Food token instead.</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>W</manacost>
+			<cmc>1</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="0f508085-7bd9-424e-8a48-0ca004540635" num="0032" muid="0032">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Ceaseless Dragon</name>
+		<text>Flying
+When this creature enters, search your library for a Plains card, put it into your hand, then shuffle. You gain 2 life.
+You may cast this card from your graveyard using its warp ability.
+Warp {1}{W}</text>
+		<prop>
+			<type>Creature - Dragon</type>
+			<maintype>Creature</maintype>
+			<manacost>3WW</manacost>
+			<cmc>5</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>5/5</pt>
+		</prop>
+		<set rarity="rare" uuid="254fc8a6-5589-4826-9534-bd984ea792ef" num="0033" muid="0033">CA0</set>
+		<tablerow></tablerow>
+	</card>
+	<card>
+		<name>Lotus Herald</name>
+		<text>Flash
+Flying
+When this creature enters, if an opponent controls more lands than you, create a Black Lotus token. (It's a {0} Artifact with "{T}, Sacrifice this artifact: Add three mana of any one color."</text>
+		<prop>
+			<type>Creature - Angel</type>
+			<maintype>Creature</maintype>
+			<manacost>1W</manacost>
+			<cmc>2</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>1/2</pt>
+		</prop>
+		<set rarity="mythic" uuid="664e6ccd-26f6-48e5-b458-309257047624" num="0034" muid="0034">CA0</set>
+		<related>Black Lotus</related>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Dormant Chromeseed</name>
+		<text>When this artifact enters or leaves the battlefield, return target creature card with mana value 3 or less from your graveyard to the battlefield.
+{3}{W}, Sacrifice this artifact: Draw a card.</text>
+		<prop>
+			<type>Artifact</type>
+			<maintype>Artifact</maintype>
+			<manacost>1W</manacost>
+			<cmc>2</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="bcd5285b-4379-4266-b7cb-f0fda6bad9e1" num="0035" muid="0035">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Scenic Detour</name>
+		<text>Put target tapped creature into its owner's library just beneath the top X cards of that library.
+Draw a card.</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>X1W</manacost>
+			<cmc>2</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="8ca85992-82b8-43de-ab69-32be7d5c678c" num="0036" muid="0036">CA0</set>
+		<tablerow></tablerow>
+	</card>
+	<card>
+		<name>Lightrender Archon</name>
+		<text>Flying
+If a card or token would be put into a graveyard from anywhere, exile it instead.
+Players can't pay life, sacrifice permanents, or discard cards to cast spells or activate abilities.</text>
+		<prop>
+			<type>Creature - Archon</type>
+			<maintype>Creature</maintype>
+			<manacost>2W</manacost>
+			<cmc>3</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>3/3</pt>
+		</prop>
+		<set rarity="rare" uuid="cce13cd0-93f7-4dbc-bdb9-ccd090908e8b" num="0037" muid="0037">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Young Animator</name>
+		<text>Ward {2}
+When this creature enters, target artifact you control becomes an artifact creature with base power and toughness 3/3 for as long as this creature remains on the battlefield.</text>
+		<prop>
+			<type>Creature - Human</type>
+			<maintype>Creature</maintype>
+			<manacost>W</manacost>
+			<cmc>1</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>1/</pt>
+		</prop>
+		<set rarity="rare" uuid="5c39c3a1-952f-45a0-9b09-ba46c8bd17a9" num="0038" muid="0038">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Duskspine Cultivation</name>
+		<text>Destroy target noncreature permanent. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>1W</manacost>
+			<cmc>2</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="d5f28270-c9de-4e8c-abec-fb0ac065a602" num="0039" muid="0039">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Duskwing Glider</name>
+		<text>Flying
+When this creature enters, you gain 1 life and draw a card.</text>
+		<prop>
+			<type>Creature - Bird</type>
+			<maintype>Creature</maintype>
+			<manacost>1W</manacost>
+			<cmc>2</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>2/1</pt>
+		</prop>
+		<set rarity="uncommon" uuid="b18d26ef-bc11-4741-b4b4-734d7b57a6a0" num="0040" muid="0040">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Basri, Oketra's Faithful</name>
+		<text>First strike
+When Basri enters, return any number of target creature cards with total power 3 or less from your graveyard to the battlefield.</text>
+		<prop>
+			<type>Legendary Creature - Human Warrior</type>
+			<maintype>Creature</maintype>
+			<manacost>3W</manacost>
+			<cmc>4</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>4/2</pt>
+		</prop>
+		<set rarity="mythic" uuid="24c786c9-a6b6-4fdc-b197-f6ac6a78b57c" num="0041" muid="0041">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Windsculptor Prodigy</name>
+		<text>Flying
+Creatures and nonbasic lands your opponents control enter tapped.
+{3}{W}, Sacrifice this creature: Destroy target tapped creature.</text>
+		<prop>
+			<type>Creature - Human Wizard</type>
+			<maintype>Creature</maintype>
+			<manacost>WW</manacost>
+			<cmc>2</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>2/1</pt>
+		</prop>
+		<set rarity="rare" uuid="bb72b9c0-75a1-4840-8c24-a0b6c42840f9" num="0042" muid="0042">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Herald of Sovereignty</name>
+		<text>Flying
+Whenever this creature enters or attacks, each opponent chooses a permanent of each permanent type and sacrifices them.</text>
+		<prop>
+			<type>Creature - Angel</type>
+			<maintype>Creature</maintype>
+			<manacost>6WW</manacost>
+			<cmc>8</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>6/6</pt>
+		</prop>
+		<set rarity="mythic" uuid="1f0c6e6a-e63d-4689-b619-127cd023d411" num="0043" muid="0043">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Ria Ivor, Corrupted Champion</name>
+		<text>When Ria Ivor enters, create two 2/2 white Knight creature tokens.
+Whenever you attack, creatures you control get +2/+2 until end of turn.
+Blitz {4}{W}</text>
+		<prop>
+			<type>Legendary Creature - Phyrexian Knight</type>
+			<maintype>Creature</maintype>
+			<manacost>5W</manacost>
+			<cmc>6</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>5/5</pt>
+		</prop>
+		<set rarity="mythic" uuid="bbae3e51-3978-4164-9699-d7ded4fc9e07" num="0044" muid="0044">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Nullmancer</name>
+		<text>Activated abilities can't be activated unless they're mana abilities.</text>
+		<prop>
+			<type>Creature - Human Wizard</type>
+			<maintype>Creature</maintype>
+			<manacost>W</manacost>
+			<cmc>1</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="rare" uuid="7ad51965-d5fa-4eb7-a82f-22e73ac4a9b3" num="0045" muid="0045">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Gilded Pouncer</name>
+		<text>Flash
+Ward {2}
+Double Strike
+Cycling {2}
+Eternalize {2}{W}{W}</text>
+		<prop>
+			<type>Creature - Cat</type>
+			<maintype>Creature</maintype>
+			<manacost>1W</manacost>
+			<cmc>2</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>1/2</pt>
+		</prop>
+		<set rarity="rare" uuid="4483f2f4-db4c-4f75-82b0-03769f0f2923" num="0046" muid="0046">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+ 	<card>
+		<name>Angelic Wrath</name>
+		<text>Exile all creatures. Create a 4/4 white Angel creature token with flying and vigilance.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>3WW</manacost>
+			<cmc>5</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="dbef46d8-795f-44d8-ab16-73d1c682660f" num="0047" muid="0047">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Alabaster Equipoise</name>
+		<text>Each opponent who controls more lands than you sacrifices a land. Each opponent who controls more creatures than you sacrifices a creature. Draw a card if an opponent has more cards in hand than you. You gain 4 life if an opponent has more life than you.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>2W</manacost>
+			<cmc>3</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+		</prop>
+		<set rarity="mythic" uuid="736f94f0-8491-44a7-ad20-f069c0f2d5c1" num="0048" muid="0048">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+		<card>
+		<name>Thalia, Steadfast Cathar</name>
+		<text>Vigilance
+Whenever Thalia deals combat damage to a player, investicate. (Create a Clue artifact token with "{2}, Sacrifice this token: Draw a card.")
+{1}, {T], Sacrifice a Clue: Counter target noncreature spell unless its controller pays {1}.</text>
+		<prop>
+			<type>Legendary Creature - Human Warrior</type>
+			<maintype>Creature</maintype>
+			<manacost>W</manacost>
+			<cmc>1</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>2/1</pt>
+		</prop>
+		<set rarity="mythic" uuid="3ce491f2-7d1e-4603-a0b8-e0b5f1f1d949" num="0059" muid="0059">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Sunblaze Exemplar</name>
+		<text>Lifelink
+Recover - Remove a counter from a creature you control. (When another creature is put into your graveyard from the battlefield, remove a counter from a creature you control. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.</text>
+		<prop>
+			<type>Creature - Human Warrior</type>
+			<maintype>Creature</maintype>
+			<manacost>W</manacost>
+			<cmc>1</cmc>
+			<colors>W</colors>
+			<coloridentity>W</coloridentity>
+			<pt>2/1</pt>
+		</prop>
+		<set rarity="rare" uuid="93bbb33f-0ebb-428a-ba4e-d67b99bf7d4c" num="0050" muid="0050">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Maddening Revelation</name>
+		<text>Kicker - Discard a card. (You may discard a card in addition to any other costs as you cast this spell.)
+Counter target noncreature spell unless its controller pays {2}. If this spell was kicked, counter that spell unlesss its controller pays {4} instead.</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>U</manacost>
+			<cmc>1</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="3a77a5d7-22f1-461f-8380-46dd9f106c84" num="0051" muid="0051">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Fleeting Rootwalla</name>
+		<text>{U}: This creature gets +2/+0 and can't be blocked until end of turn. Activate only once each turn.
+Madness {0} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)(</text>
+		<prop>
+			<type>Creature - Lizard</type>
+			<maintype>Creature</maintype>
+			<manacost>U</manacost>
+			<cmc>1</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+			<pt>1/2</pt>
+		</prop>
+		<set rarity="uncommon" uuid="12a79510-7c0f-4027-a237-d7cc9049af58" num="0052" muid="0052">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Seeker of Secrets</name>
+		<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+When this creature enters, draw a card.</text>
+		<prop>
+			<type>Creature - Merfolk</type>
+			<maintype>Creature</maintype>
+			<manacost>3U</manacost>
+			<cmc>4</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+			<pt>2/1</pt>
+		</prop>
+		<set rarity="uncommon" uuid="856f0477-b39f-4112-8b7d-abbb3f89fae0" num="0053" muid="0053">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Pilgrim of the Wind</name>
+		<text>Flash
+Flying
+When this creature enters, tap target creature an opponent controls and put a stun counter on it. It loses all abilities until end of turn.</text>
+		<prop>
+			<type>Creature - Bird Wizard</type>
+			<maintype>Creature</maintype>
+			<manacost>1U</manacost>
+			<cmc>2</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+			<pt>2/2</pt>
+		</prop>
+		<set rarity="uncommon" uuid="" num="0054" muid="0054">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Mirror Crisis</name>
+		<text>Choose target creature. The next time one or more creatures enter this turn, they enter as copies of the chosen creature.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>U</manacost>
+			<cmc>1</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="a2dca26f-4ef8-46ea-a23b-13df1b970688" num="0055" muid="0055">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Reap the Catacombs</name>
+		<text>Surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Channel - {2}{U}, Discard this card: Return target instant or sorcery card from your graveyard to your hand.</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>U</manacost>
+			<cmc></cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="5ff17d80-6a9d-42ce-93de-247c7f15929f" num="0056" muid="0056">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Knight of the Tides</name>
+		<text>When this creature enters, draw two cards then discard two cards.
+Threshold - This creature gets +2/+2 and can't be blocked as long as seven or more cards are in your graveyard.</text>
+		<prop>
+			<type>Creature - Human Knight</type>
+			<maintype>Creature</maintype>
+			<manacost>1U</manacost>
+			<cmc>2</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+			<pt>2/1</pt>
+		</prop>
+		<set rarity="rare" uuid="87a42138-8490-46df-829b-3d86cbdc7fa1" num="0057" muid="0057">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Predestine</name>
+		<text>Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>U</manacost>
+			<cmc>1</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="28e68417-0d66-42d1-8f91-c4ff85afaae6" num="0058" muid="0058">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+  </cards>
+</cockatrice_carddatabase>
