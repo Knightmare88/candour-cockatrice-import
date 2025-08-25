@@ -534,5 +534,36 @@ Exile a spell you control: Draw a card.</text>
 		<set rarity="uncommon" uuid="529fe04b-d808-442a-a7a2-2ab6ba268c42" num="0094" muid="0094">CA0</set>
 		<tablerow>3</tablerow>
 	</card>
+	  	<card>
+		<name>Curious Peregrination</name>
+		<text>Enchanted creature gets +1/+0 and has "Whenever this creature deals combat damage to a player, you may draw a card."
+When this Aura is put into a graveyard from the battlefield, return it to its owner's hand.</text>
+		<prop>
+			<type>Enchantment - Aura</type>
+			<maintype>Enchantment</maintype>
+			<manacost>U</manacost>
+			<cmc>1</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="a4fcb898-ed22-4675-904f-a3a0a7aa8a2e" num="0095" muid="0095">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Trap Essence</name>
+		<text>This spell costs {2} less to cast if it targets a red or green spell.
+Counter target spell.</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>2U</manacost>
+			<cmc>3</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="399b83a9-aa30-495f-8b35-ab0708c23b98" num="096" muid="0096">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
   </cards>
+
 </cockatrice_carddatabase>
