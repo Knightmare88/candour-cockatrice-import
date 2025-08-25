@@ -564,6 +564,416 @@ Counter target spell.</text>
 		<set rarity="rare" uuid="399b83a9-aa30-495f-8b35-ab0708c23b98" num="096" muid="0096">CA0</set>
 		<tablerow>3</tablerow>
 	</card>
+	  	<card>
+		<name>Force of Anguish</name>
+		<text>You may pay 1 life and exile a black card from your hand rather than pay this spell's mana cost.
+Distribute four -1/-1 counters among any number of target creatures.</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>3BB</manacost>
+			<cmc>5</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="mythic" uuid="b3833973-62f7-461c-9d90-a70ca2319df7" num="0101" muid="0101">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Guardian Thrull</name>
+		<text>When this creature enters, destroy target creature an opponent controls.
+Swampcycling {1} ({1}, Discard this card: search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+		<prop>
+			<type>Creature - Beast</type>
+			<maintype>Creature</maintype>
+			<manacost>5B</manacost>
+			<cmc>6</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+			<pt>7/2</pt>
+		</prop>
+		<set rarity="uncommon" uuid="7514fbb8-e6f5-4fd2-a93d-60b82faeee56" num="0102" muid="0102">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Perilous Depths</name>
+		<text>Choose one -
+• Destroy target creature with mana value 2 or less.
+• You draw two cards and you lose 2 life.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>1B</manacost>
+			<cmc>2</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="e515c18a-69ea-4fba-bb09-354b74c63bb8" num="0103" muid="0103">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Bitter Ophiomancer</name>
+		<text>Ward - Pay 3 life.
+At the beginning of your upkeep, you lose 1 life and create a 1/1 black Snake creature token with deathtouch.</text>
+		<prop>
+			<type>Creature - Human Shaman</type>
+			<maintype>Creature</maintype>
+			<manacost>1B</manacost>
+			<cmc>2</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+			<pt>1/2</pt>
+		</prop>
+		<set rarity="rare" uuid="3b8f629b-811f-4326-a68a-688d848a6130" num="0106" muid="0106">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Agonizing Edict</name>
+		<text>Target player sacrifices a nontoken creature of their choice.
+Overload {B} (You may cast this spell for its overload cost. If you do, change "target" in its text to "each".)</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>1B</manacost>
+			<cmc>2</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="dd4966fb-103a-4071-b62d-9abe02204c87" num="0107" muid="0107">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Bloodcaster Prodigy</name>
+		<text>Flying
+Whenever this creature deals combat damage to a player, create a Blood token. (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)
+If you would discard a card during your turn, discard it into exile instead. When you do, you may cast it. If you don't cast it, put it into your graveyard.</text>
+		<prop>
+			<type>Creature - Vampire Wizard</type>
+			<maintype>Creature</maintype>
+			<manacost>1B</manacost>
+			<cmc>2</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+			<pt>2/1</pt>
+		</prop>
+		<set rarity="mythic" uuid="311d9e4a-d353-4210-b992-388fd9f35267" num="0108" muid="0108">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Pernicious Revenant</name>
+		<text>{1}{B}, Sacrifice this creature: Target creature an opponent controls gets -2/-2 until end of turn.
+{2}{B}: Return this card from your graveyard to the battlefield tapped.</text>
+		<prop>
+			<type>Creature - Zombie Assassin</type>
+			<maintype>Creature</maintype>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+			<pt>2/1</pt>
+		</prop>
+		<set rarity="rare" uuid="3a0930c8-8eb5-45ac-83f9-771bdbf1d9a8" num="0109" muid="0109">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Fatal Impact</name>
+		<text>Destroy target creature if it has mana value 2 or less.
+Threshold - Destroy that creature if it has mana value 4 or less instead if there are seven or more cards in your graveyard.</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="cd2cd042-13ee-44b7-af04-45ae55512c0b" num="0110" muid="0110">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Slaughter Wurm</name>
+		<text>When this creature enters, creatures your opponents control get -3/-3 until end of turn.
+{1}{B}, Discard this card: Target creature gets -3/-3 until end of turn.</text>
+		<prop>
+			<type>Creature - Phyrexian Wurm</type>
+			<maintype>Creature</maintype>
+			<manacost>3BBB</manacost>
+			<cmc>6</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+			<pt>7/6</pt>
+		</prop>
+		<set rarity="mythic" uuid="1e3ac6af-904c-48a5-b922-827ffcc7c8a8" num="0111" muid="0111">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Contracted Aetherborn</name>
+		<text>Flash
+Lifelink
+When this creature enters, you may destroy another target creature. If a creature is destroyed this way, you lose life equal to its toughnes.</text>
+		<prop>
+			<type>Creature - Aetherborn Assassin</type>
+			<maintype>Creature</maintype>
+			<manacost>1BB</manacost>
+			<cmc>3</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+			<pt>2/1</pt>
+		</prop>
+		<set rarity="rare" uuid="6507e107-80f1-4702-a9b7-386f32231616" num="0112" muid="0112">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Sinister Tutor</name>
+		<text>Search your library for a card, then shuffle and put that card into your library second from the top. You lose 2 life, Exile Sinister Tutor.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="mythic" uuid="4d402d18-6a98-4da0-8526-27263bedc178" num="0113" muid="0113">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Liliana, of Deaths Design</name>
+		<text>[+1]: Look at the top card of your library. You may reveal that card and put it into your hand. If you do, you lose life equal to its mana value.
+[-1]: Target player loses 3 life and you gain 3 life.
+[-2]: Target player exiles a creature they control.</text>
+		<prop>
+			<type>Legendary Planeswalker - Liliana</type>
+			<maintype>Planeswalker</maintype>
+			<manacost>1BB</manacost>
+			<cmc>3</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+			<loyalty>3</loyalty>
+		</prop>
+		<set rarity="mythic" uuid="8d835785-725c-4905-a483-0fcd006a3504" num="0114" muid="0114">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Twisted Bog</name>
+		<text>(This land isn't a spell, it's affected by summoning sickness, and it has "{T}: Add {B}.")
+Shroud (This creature can't be the target of spells or abilities.)</text>
+		<prop>
+			<type>Land Creature - Swamp Horror</type>
+			<maintype>Creature</maintype>
+			<cmc>0</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="rare" uuid="1906b3a4-bae2-4c0b-adca-7627c2cfdf6b" num="0115" muid="0115">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Sanguinary Temptation</name>
+		<text>You gain 1 life and draw a card.
+Flashback - Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="97fe3615-d461-400d-ac11-fb82d555461d" num="0116" muid="0116">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Squandered Hopes</name>
+		<text>Choose One -
+• Destroy target creature or planeswalker. You lose 3 life.
+• Exile up to three target cards from your opponents' graveyards. You gain 3 life.</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>1B</manacost>
+			<cmc>2</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="0a95d7d3-703f-45bb-9499-4b086afa3b22" num="0117" muid="0117">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Seething Return</name>
+		<text>Return target creature card from your graveyard to the battlefield.
+Flashback - Sacrifice two creatures. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>2BB</manacost>
+			<cmc>4</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="f2f51bfe-992d-4ba5-8f1d-99d3ec6bdd84" num="0118" muid="0118">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Altar of the Dross</name>
+		<text>Sacrifice an artifact or creature: Add one mana of any color.</text>
+		<prop>
+			<type>Artifact</type>
+			<maintype>Artifact</maintype>
+			<manacost>2{B/P}</manacost>
+			<cmc>3</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="24cdd444-ed82-436b-b71a-c9798fa169dd" num="0119" muid="0119">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Sorin, Luxurious Bloodloord</name>
+		<text>First strike
+When Sorin enters, look at the top four cards of target opponent’s library, exile one of them face down, then put the rest on the bottom of that library in a random order. You may cast that spell for as long as it remains exiled, and mana of any type can be spent to cast that spell.</text>
+		<prop>
+			<type>Legendary Creature - Vampire Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>2BB</manacost>
+			<cmc>4</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+			<pt>4/5</pt>
+		</prop>
+		<set rarity="rare" uuid="bedb3307-ea3f-43e7-87f6-264de926a3ba" num="0120" muid="0120">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Sadistic Standoff</name>
+		<text>Each player sacrifices a creature of their choice. Each player who can't loses 4 life.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="a3aed253-6888-4fed-b32e-6356c57b9d9e" num="0121" muid="0121">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Octumbra</name>
+		<text>Haste
+If you have 8 or less life, this creature gets +7/+7</text>
+		<prop>
+			<type>Creature - Spider Shade</type>
+			<maintype>Creature</maintype>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="mythic" uuid="48dafdfe-0caf-430a-b5df-df3e39ff7e59" num="0122" muid="0122">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Apocalypse Obliterator</name>
+		<text>Menace
+Whenever this creature is dealt damage, incubate X, where X is the damage dealt this way. (Create an Incubator token with X +1/+1 counters on it and “{2}: Transform this token.” It transforms into a 0/0 Phyrexian artifact creature.)</text>
+		<prop>
+			<type>Creature - Phyrexian Horror</type>
+			<maintype>Creature</maintype>
+			<manacost>1B</manacost>
+			<cmc>2</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+			<pt>3/1</pt>
+		</prop>
+		<set rarity="rare" uuid="7d28b10d-213b-4cbb-b698-dca16f1bdf5b" num="0123" muid="0123">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Embalmed Gargoyle</name>
+		<text>Flying
+When this creature enters, create two 1/1 white Spirit creature tokens with flying.
+Embalmb {1}{W} ({1}{W}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a white Zombie Angel with no mana cost. Embalm only as a sorcery.)</text>
+		<prop>
+			<type>Artifact Creature - Gargoyle</type>
+			<maintype>Creature</maintype>
+			<manacost>2B</manacost>
+			<cmc>3</cmc>
+			<colors>B</colors>
+			<coloridentity>WB</coloridentity>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="rare" uuid="3c618477-6c79-47db-a216-3eb6d94322fc" num="0125" muid="0125">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Deathrite Mystic</name>
+		<text>{1}: Exile target card from a graveyard.
+{T}: Put target card exiled with this creature into its owner's graveyard, choose one-
+• You gain 2 life.
+• Target opponent loses 2 life.</text>
+		<prop>
+			<type>Creature - Elf Shaman</type>
+			<maintype>Creature</maintype>
+			<manacost>1B</manacost>
+			<cmc>2</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+			<pt>2/3</pt>
+		</prop>
+		<set rarity="rare" uuid="a6c53309-8d1c-49e7-8fd1-95d43580545e" num="0126" muid="0126">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Sanguine Pilgrimage</name>
+		<text>Whenever you lose life during your turn, put that many quest counters on this enchantment.
+At the beginning of your end step, if this enchantment has 10 or more quest counters on it, each opponent loses 3 life and you gain 3 life.</text>
+		<prop>
+			<type>Enchantment</type>
+			<maintype>Enchantment</maintype>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="mythic" uuid="386e647a-fa1a-4134-9a33-b9febdae50a8" num="0127" muid="0127">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Unforgiving Nightmare</name>
+		<text>You control target player during that player's next turn.
+Discard your hand.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>1BBBB</manacost>
+			<cmc>5</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="mythic" uuid="dad8aaa0-07c1-4198-9e35-4e63cc9a6e7c" num="0128" muid="0128">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Dance with Fatality</name>
+		<text>Roll a d20.
+1-5 | Each opponent sacrifices two creatures.
+6-10 | Each opponent discards two cards.
+11+ | Each opponent loses 5 life.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="9db07210-0d58-4af0-94cc-15561ba082ce" num="0129" muid="0129">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
   </cards>
-
 </cockatrice_carddatabase>
+
