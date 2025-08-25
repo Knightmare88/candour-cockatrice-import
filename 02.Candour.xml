@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+  </sets>
+  <cards>
+<card>
+		<name>Mu Yanling, Seeing Wind</name>
+		<text>Whenver you draw your second card each turn, create a 1/1 blue Bird creature token with flying.
+[+1]: Until end of turn, whenever one or more creatures you control deal combat damage to a player, draw a card.
+[-2]: Tap all creatures target player controls.</text>
+		<prop>
+			<type>Legendary Planeswalker - Yanling</type>
+			<maintype>Planeswalker</maintype>
+			<manacost>1UU</manacost>
+			<cmc>3</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+			<loyalty>3</loyalty>
+		</prop>
+		<set rarity="mythic" uuid="f4f998bf-cb66-42b6-8b11-fa44b7673237" num="0059" muid="0059">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Conduit Mage</name>
+		<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Discard a card: This creature gains flying until end of turn.</text>
+		<prop>
+			<type>Creature - Human Wizard</type>
+			<maintype>Creature</maintype>
+			<manacost>U</manacost>
+			<cmc>1</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="rare" uuid="7d934369-49c2-4e19-b9fe-d2a136e7852b" num="0060" muid="0060">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Unsettled Compass</name>
+		<text>When this artifact enters, if you cast it, discover 2. (Exile cards from the top of your library until you exile a nonland card with mana value 2 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+		<prop>
+			<type>Artifact</type>
+			<maintype>Artifact</maintype>
+			<manacost>1U</manacost>
+			<cmc>2</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="1fd6cf58-7b6d-486f-b634-ab3011f45004" num="0061" muid="0061">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Tempest Angler</name>
+		<text>Flash
+When this creature enters, the owner of target spell or nonland permanent puts it on their choice of the top or bottom of their library.</text>
+		<prop>
+			<type>Creature - Fish</type>
+			<maintype>Creature</maintype>
+			<manacost>2UU</manacost>
+			<cmc>4</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+			<pt>3/1</pt>
+		</prop>
+		<set rarity="rare" uuid="128ee328-b805-4dc4-a496-89ed33e882bb" num="0062" muid="0062">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Mismatch</name>
+		<text>Counter target spell unless its controller pays {2}.
+Islandcycling {1}. ({1}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>1U</manacost>
+			<cmc>2</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="af097332-d760-4bc0-95b0-ae9e03242dfd" num="0064" muid="0064">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Phyrexian Scrap Searcher</name>
+		<text>({U/P} can be paid with either {U} or 2 life.)
+You may hav ethis creature enter as a copy of any nonland artifact on the battlefield with mana value 2 or less.</text>
+		<prop>
+			<type>Artifact Creature - Phyrexian Construct</type>
+			<maintype>Creature</maintype>
+			<manacost>1{U/P}</manacost>
+			<cmc>2</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="rare" uuid="2756f1c2-10f4-4d8b-99f5-e5e1d9e3c6bc" num="0065" muid="0065">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Paradoxical Ritual</name>
+		<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Exile any number of target artifacts you control. Return those cards to the battlefield under their owner's control at the beginning of hte next end step. Draw a card for each card exiled this way.</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>7U</manacost>
+			<cmc>8</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="815121ad-d763-4872-814c-1ff57ad13fc3" num="0067" muid="0067">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Mizzium Micromancer</name>
+		<text>Flash
+When this creature enters, if you cast it, exile target artifact, instant, or sorcery card with mana value 1 or less from your graveyard. Copy that card. You may cast the copy without paying its mana cost.</text>
+		<prop>
+			<type>Creature - Human Wizard</type>
+			<maintype>Creature</maintype>
+			<manacost>1U</manacost>
+			<cmc>2</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+			<pt>2/1</pt>
+		</prop>
+		<set rarity="mythic" uuid="a2ee387e-4b22-4e7b-bce7-0dde9997b18d" num="0068" muid="0068">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Ancestral Ambition</name>
+		<text>Target player draws four cards, then discards three cards.
+Flashback {U} (You may cast this card from your graveyard for its flashback cost. Then exile it.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>2UU</manacost>
+			<cmc>4</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="19569609-d25a-4f4f-bc79-c81fbeeb3118" num="0069" muid="0069">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Lantern of Control</name>
+		<text>Players play with the top card of their libraries revealed.
+{T}: Target player mills a card.</text>
+		<prop>
+			<type>Artifact</type>
+			<maintype>Artifact</maintype>
+			<manacost>U</manacost>
+			<cmc>1</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="9fdac1bc-5cad-4111-94b9-581665798aa8" num="0070" muid="0070">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Harbinger of Equilibrium</name>
+		<text>When this creature enters, return target creature an opponent controls to its owner's hand. That creature's owner can't cast spells with the same name as that creature for as long as this creature remains on the battlefield</text>
+		<prop>
+			<type>Creature - Merfolk Wizard</type>
+			<maintype>Creature</maintype>
+			<manacost>2W</manacost>
+			<cmc>3</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+			<pt>2/3</pt>
+		</prop>
+		<set rarity="rare" uuid="2af41003-8afd-40eb-b512-c9eb40c58229" num="0071" muid="0071">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Arcane Tutor</name>
+		<text>Search your library for an instant or sorcery card, reveal it, put it into your hand, then shuffle. Exile Arcane Tutor.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>1U</manacost>
+			<cmc>2</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="mythic" uuid="31689cfa-e76b-4f41-bc9b-ac93615fc2e6" num="0072" muid="0072">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Force of Tenacity</name>
+		<text>You may pay 1 life and exile a blue card from your hand rather than pay this spell's mana cost.
+Counter target artifact, instant, or sorcery spell.</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>2UU</manacost>
+			<cmc>4</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="mythic" uuid="c9b66d1c-96bf-4ab5-bd0f-a2b194a83941" num="0073" muid="0073">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Aqueous Bauble</name>
+		<text>When this artifact enters or leaves the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+{1}, Sacrifice this artifact: draw a card.</text>
+		<prop>
+			<type>Artifact - Clue</type>
+			<maintype>Artifact</maintype>
+			<manacost>U</manacost>
+			<cmc>1</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="5a2d1e37-2398-4c80-ac75-5cbe67e11b40" num="0074" muid="0074">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Emry, Inquisitive Lurker</name>
+		<text>{1}, {T}: Draw a card, then discard a card.
+Whenver you discard one or more artifact cards, choose one -
+• Create a Clue token.
+• Create a treasure token.
+• Create a colorless Equipment artifact token named Sword with "Equipped creature gets +1/+1" and equip {2}.</text>
+		<prop>
+			<type>Legendary Creature - Merfolk Wizard</type>
+			<maintype>Creature</maintype>
+			<manacost>U</manacost>
+			<cmc>1</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+			<pt>0/2</pt>
+		</prop>
+		<set rarity="mythic" uuid="11409f90-933e-4c87-8eb5-7762cb0a3f02" num="0075" muid="0075">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Bauble Mage</name>
+		<text>When this creature enters, you may search your library for an artifact card with mana value 0, reveal that card, put it into your hand, then shuffle.</text>
+		<prop>
+			<type>Artifact Creature - Human Artificer</type>
+			<maintype>Creature</maintype>
+			<manacost>U</manacost>
+			<cmc>1</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="uncommon" uuid="45b73747-51d7-4154-b697-21415c9efcae" num="0076" muid="0076">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Memory Spike</name>
+		<text>Look at target player's hand.
+Draw a card, then fateseal 3. (To fateseal 3, look at the top three cards of an opponent’s library, then put any number of them on the bottom of that player’s library and the rest on top in any order.)</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>U</manacost>
+			<cmc>1</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="1b7dd51e-83b5-494d-bcf4-08ca14b22794" num="0077" muid="0077">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Astral Epiphany</name>
+		<text>Draw three cards, then discard two cards. Create a 1/1 white Spirit creature token with flying for each card type among cards discarded this way.</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>2U</manacost>
+			<cmc>3</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="4c5594aa-0d50-4f30-b64b-8eb9b4a11b62" num="0078" muid="0078">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Travelling Thaumaturge</name>
+		<text>When this creature enters, copy the next spell you cast this turn when you cast it. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)</text>
+		<prop>
+			<type>Creature - Human Wizard</type>
+			<maintype>Creature</maintype>
+			<manacost>1U</manacost>
+			<cmc>2</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+			<pt>2/1</pt>
+		</prop>
+		<set rarity="rare" uuid="418d99bd-bcb9-436b-a312-fec985fa62c8" num="0079" muid="0079">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Deepcoral Guardian</name>
+		<text>Whenever an opponent casts a spell, you may sacrifice this creature. If you do, reveal the top card of your library, counter that spell if it has the same mana value as the revealed card.
+{2}: Scry 2.</text>
+		<prop>
+			<type>Creature - Merfolk Warrior</type>
+			<maintype>Creature</maintype>
+			<manacost>U</manacost>
+			<cmc>1</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+			<pt>1/2</pt>
+		</prop>
+		<set rarity="rare" uuid="3fa6dc84-4d18-4979-b9f4-12eb4d74ac52" num="0080" muid="0080">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Spectral Captain</name>
+		<text>Flash
+Flying, ward {1}
+{2}{U}: Put a +1/+1 counter on this creature, draw a card.</text>
+		<prop>
+			<type>Creature - Spirit Pirate</type>
+			<maintype>Creature</maintype>
+			<manacost>U</manacost>
+			<cmc>1</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="uncommon" uuid="70384f48-8629-4888-8c1e-08d94962c9b6" num="0081" muid="0081">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Jin-Gitaxias, Matter Shaper</name>
+		<text>Flash
+When Jin-Gitaxias enters, draw seven cards.
+Discard a card: You may tap or untap target artifact, creature, or land.</text>
+		<prop>
+			<type>Legendary Creature - Phyrexian Praetor</type>
+			<maintype>Creature</maintype>
+			<manacost>5UU</manacost>
+			<cmc>7</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+			<pt>9/9</pt>
+		</prop>
+		<set rarity="mythic" uuid="94626f2d-c474-4f86-baba-d8da5be7ded1" num="0082" muid="0082">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Disparage</name>
+		<text>Buyback - Pay 3 life, Discard two cards. (You may pay 3 life and discard two cards in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>UU</manacost>
+			<cmc>2</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="54934f22-653f-48e2-9a19-e08fbb3275bc" num="0083" muid="0083">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Swept Away</name>
+		<text>Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Return target nonland permanent to its owenr's hand. If this spell was kicked, draw a card.</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>1U</manacost>
+			<cmc>2</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="1fe72b81-e6a5-49d4-a346-aaf9e41a9e0e" num="0084" muid="0084">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Depth</name>
+		<text>Flash
+Skulk
+When this creature enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.
+Evoke - Exile a blue card from your hand.</text>
+		<prop>
+			<type>Creature - Elemental Incarnation</type>
+			<maintype>Creature</maintype>
+			<manacost>1UU</manacost>
+			<cmc>3</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+			<pt>2/3</pt>
+		</prop>
+		<set rarity="mythic" uuid="daac94e6-f059-4717-a627-4b2c2d495b59" num="0085" muid="0085">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Dreamcoil Despot</name>
+		<text>Flying
+When this creature enters, if you cast it, shuffle your hand and graveyard into your library, then draw seven cards.
+Dash {3}{U}{U} (You may cast this spell for its dash cost. If you do, it gains haste, and it’s returned from the battlefield to its owner’s hand at the beginning of the next end step.)</text>
+		<prop>
+			<type>Creature - Dragon</type>
+			<maintype>Creature</maintype>
+			<manacost>UUU</manacost>
+			<cmc>3</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+			<pt>3/3</pt>
+		</prop>
+		<set rarity="mythic" uuid="4e6d2da8-28fb-4666-b731-641a30e5b834" num="0086" muid="0086">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Perpend</name>
+		<text>Look at the top two cards of your library, then put them back in any order. You may shuffle.
+Draw a card.</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>U</manacost>
+			<cmc>1</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="362c48d2-f8c7-4b43-8f4c-4535ccfad108" num="0087" muid="0087">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Forgetful Fish</name>
+		<text>Islandwalk (This creature can't be blocked as long as defending player controls and Island.)
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+When you control no Islands, sacrifice this creature.</text>
+		<prop>
+			<type>Creature - Fish</type>
+			<maintype>Creature</maintype>
+			<manacost>U</manacost>
+			<cmc>1</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+			<pt>2/1</pt>
+		</prop>
+		<set rarity="rare" uuid="ee9d0e6d-b6c8-4f31-90e0-9c833ead9e2d" num="0088" muid="0088">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+		<card>
+		<name>Fatefall Malestrom</name>
+		<text>Take an extra turn after this one.
+Flashback {9}{U}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>3UUU</manacost>
+			<cmc>6</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="mythic" uuid="e19637aa-73f4-43cf-94a7-0477f6fcc805" num="0089" muid="0089">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Contrasurveil</name>
+		<text>Split second (As long as this spell is on the stack, players can’t cast spells or activate abilities that aren’t mana abilities.)
+Target permanent or player gains shroud until end of turn.
+Cycling {2}</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>U</manacost>
+			<cmc>1</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="640fc75a-75aa-4c1c-8306-6ec91df76af8" num="0090" muid="0090">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Ethereal Companions</name>
+		<text>When this creature becomes the target of a spell, sacrifice it.
+Spells you cast cost {U} (or {1}) less to cast.</text>
+		<prop>
+			<type>Creature - Rabbit Illusion</type>
+			<maintype>Creature</maintype>
+			<manacost>1U</manacost>
+			<cmc>2</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+			<pt>1/2</pt>
+		</prop>
+		<set rarity="uncommon" uuid="77f6ad33-8579-4e5a-8694-f09ac5fbb127" num="0091" muid="0091">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Memory Severance</name>
+		<text>At the beginning of your upkeep, surveil 1.
+{2}{U}, Sacrifice this enchantment: Return target instant or sorcery card from your graveyard to your hand.</text>
+		<prop>
+			<type>Enchantment</type>
+			<maintype>Enchantment</maintype>
+			<manacost>U</manacost>
+			<cmc>1</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="7813002b-b170-405e-882b-cf6cd50b2b4b" num="0092" muid="0092">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Momentum Weaver</name>
+		<text>This creature can't be blocked.
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Exile a spell you control: Draw a card.</text>
+		<prop>
+			<type>Creature - Human Wizard</type>
+			<maintype>Creature</maintype>
+			<manacost>UU</manacost>
+			<cmc>2</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="rare" uuid="8e6bbee4-ecca-42c0-b585-1045b29f9cba" num="0093" muid="0093">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Prismatic Fissure</name>
+		<text>Converge - Counter target spell unless its controller pays {1} for each color of mana spent to cast this spell.</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>XU</manacost>
+			<cmc>1</cmc>
+			<colors>U</colors>
+			<coloridentity>U</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="529fe04b-d808-442a-a7a2-2ab6ba268c42" num="0094" muid="0094">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+  </cards>
+</cockatrice_carddatabase>
