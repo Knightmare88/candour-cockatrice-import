@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+  </sets>
+  <cards>
+	<card>
+		<name>Waterlogged Archipelago</name>
+		<text>{T}, Pay 2 life, Sacrifice this land: Searh your library for a Plains or Island card, put it onto the battlefield, then shuffle.</text>
+		<prop>
+			<type>Land</type>
+			<maintype>Land</maintype>
+			<cmc>0</cmc>
+		</prop>
+		<set rarity="rare" uuid="ac978bc3-ffb2-4040-a29b-d2128e9f90f7" num="0251" muid="0251">CA0</set>
+		<tablerow>0</tablerow>
+	</card>
+	<card>
+		<name>Contaminated Rivulet</name>
+		<text>{T}, Pay 2 life, Sacrifice this land: Searh your library for an Island or Swamp card, put it onto the battlefield, then shuffle.</text>
+		<prop>
+			<type>Land</type>
+			<maintype>Land</maintype>
+			<cmc>0</cmc>
+		</prop>
+		<set rarity="rare" uuid="468ae496-d6eb-442e-adf8-f96df4c02928" num="0252" muid="0252">CA0</set>
+		<tablerow>0</tablerow>
+	</card>
+	<card>
+		<name>Sanguinary Morass</name>
+		<text>{T}, Pay 2 life, Sacrifice this land: Searh your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.</text>
+		<prop>
+			<type>Land</type>
+			<maintype>Land</maintype>
+			<cmc>0</cmc>
+		</prop>
+		<set rarity="rare" uuid="3e6856c6-56e4-495e-8bf9-a8d5738f3276" num="0253" muid="0253">CA0</set>
+		<tablerow>0</tablerow>
+	</card>
+	<card>
+		<name>Wildwood Knolls</name>
+		<text>{T}, Pay 2 life, Sacrifice this land: Searh your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.</text>
+		<prop>
+			<type>Land</type>
+			<maintype>Land</maintype>
+			<cmc>0</cmc>
+		</prop>
+		<set rarity="rare" uuid="20a6533c-fab4-4fbf-9411-f539088f69c9" num="0254" muid="0254">CA0</set>
+		<tablerow>0</tablerow>
+	</card>
+	<card>
+		<name>Blustery Steppe</name>
+		<text>{T}, Pay 2 life, Sacrifice this land: Searh your library for a Forest or Plains card, put it onto the battlefield, then shuffle.</text>
+		<prop>
+			<type>Land</type>
+			<maintype>Land</maintype>
+			<cmc>0</cmc>
+		</prop>
+		<set rarity="rare" uuid="9127f0aa-f484-4cb6-a276-cbc2222d4021" num="0255" muid="0255">CA0</set>
+		<tablerow>0</tablerow>
+	</card>
+	<card>
+		<name>Stark Wetland</name>
+		<text>{T}, Pay 2 life, Sacrifice this land: Searh your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.</text>
+		<prop>
+			<type>Land</type>
+			<maintype>Land</maintype>
+			<cmc>0</cmc>
+		</prop>
+		<set rarity="rare" uuid="c88e0315-e4f7-41fc-80eb-af09d4043f6f" num="0256" muid="0256">CA0</set>
+		<tablerow>0</tablerow>
+	</card>
+	<card>
+		<name>Vexed Waterfront</name>
+		<text>This land enters tapped.
+{T}: Add {W} or {U}.
+{3}{W}{U}: Until end of turn, this land becomes a 3/4 white and blue Elemental creature with flying. It's still a land.
+Whenever this land attacks, draw a card.</text>
+		<prop>
+			<type>Land</type>
+			<maintype>Land</maintype>
+			<cmc>0</cmc>
+			<coloridentity>WU</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="5a878e83-bf48-43fb-a5a7-918f663e796c" num="0271" muid="0271">CA0</set>
+		<tablerow>0</tablerow>
+		<cipt>1</cipt>
+	</card>
+	<card>
+		<name>Vexed Mire</name>
+		<text>This land enters tapped.
+{T}: Add {U} or {B}.
+{1}{U}{B}: Until end of turn, this land becomes a 2/3 blue and black Elemental creature with skulk. It's still a land.
+Whenever this land deals combat damage to a player, that player loses 2 life.</text>
+		<prop>
+			<type>Land</type>
+			<maintype>Land</maintype>
+			<cmc>0</cmc>
+			<coloridentity>UB</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="c04685ec-9511-4a6d-b16a-cb3baf0d1c8c" num="0272" muid="0272">CA0</set>
+		<tablerow>0</tablerow>
+		<cipt>1</cipt>
+	</card>
+	<card>
+		<name>Vexed Fen</name>
+		<text>This land enters tapped.
+{T}: Add {B} or {R}.
+{B}{R}: Until end of turn, this land becomes a 1/2 black and red Elemental creature with deathtouch. It's still a land.
+Whenever this land attacks, discard a card, then draw a card.</text>
+		<prop>
+			<type>Land</type>
+			<maintype>Land</maintype>
+			<cmc>0</cmc>
+			<coloridentity>BR</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="7a767043-b339-48c1-b1f1-5226128cce63" num="0273" muid="0273">CA0</set>
+		<tablerow>0</tablerow>
+		<cipt>1</cipt>
+	</card>
+	<card>
+		<name>Vexed Temple</name>
+		<text>This land enters tapped.
+{T}: Add {R} or {W}.
+{1}{R}{W}: This land becomes a 3/2 red and white Elemental creature with first strike until end of turn. It's still a land.
+Whenever this land attacks, it deals 2 damage to each opponent and you gain 2 life.</text>
+		<prop>
+			<type>Land</type>
+			<maintype>Land</maintype>
+			<cmc>0</cmc>
+			<coloridentity>RW</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="7d885d61-22d0-43f7-81e5-823538f98d9c" num="0279" muid="0279">CA0</set>
+		<tablerow>0</tablerow>
+		<cipt>1</cipt>
+	</card>
+	<card>
+		<name>Greed Vadcuum</name>
+		<text>Choose one -
+• Counter target spell with mana value 3 or greater.
+• Exile target permanent with mana value 3 or greater.</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>WU</manacost>
+			<cmc>2</cmc>
+			<colors>WU</colors>
+			<coloridentity>WU</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="979ab680-3b74-4892-b595-acf47d4a3205" num="0281" muid="0281">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Nightblade Ronin</name>
+		<text>Flash
+When this creature enters, return target nonland permanent with mana value X or less to its owner's hand, then that player discards a card and loses 2 life.</text>
+		<prop>
+			<type>Creature - Human Samurai</type>
+			<maintype>Creature</maintype>
+			<manacost>XUB</manacost>
+			<cmc>2</cmc>
+			<colors>UB</colors>
+			<coloridentity>UB</coloridentity>
+			<pt>3/1</pt>
+		</prop>
+		<set rarity="rare" uuid="3ae30ede-32e0-4104-bf03-7520584fb489" num="0282" muid="0282">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Candlelit Scourge</name>
+		<text>Flying
+When this creature enters, each player sacrifices a nontoken creature.
+Blitz {1}{B}{R} (If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card.” Sacrifice it at the beginning of the next end step.)</text>
+		<prop>
+			<type>Creature - Demon</type>
+			<maintype>Creature</maintype>
+			<manacost>BR</manacost>
+			<cmc>2</cmc>
+			<colors>BR</colors>
+			<coloridentity>BR</coloridentity>
+			<pt>3/2</pt>
+		</prop>
+		<set rarity="rare" uuid="8528c826-12ea-4ae3-9310-4a3ebffeb8e7" num="0283" muid="0283">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Botanical Behemoth</name>
+		<text>Trample, haste
+Whenever this creature enters or attacks, put two +1/+1 counters on it.
+When this creature dies, it deals damage equal to its power to up to one target creature.</text>
+		<prop>
+			<type>Creature - Plant Horror</type>
+			<maintype>Creature</maintype>
+			<manacost>2RG</manacost>
+			<cmc>4</cmc>
+			<colors>RG</colors>
+			<coloridentity>RG</coloridentity>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="rare" uuid="1ceb6d5c-a711-4899-b352-01c766c2c77e" num="0284" muid="0284">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Menagerie Caretaker</name>
+		<text>{T}: Add one mana of any color.
+Whenever you cast your second creature spell each turn, create a Spirited Companion token. (It's a {1}{W} 1/1 Dog enchantment creature with "When this creature enters, draw a card."</text>
+		<prop>
+			<type>Creature - Wolf</type>
+			<maintype>Creature</maintype>
+			<manacost>GW</manacost>
+			<cmc>2</cmc>
+			<colors>GW</colors>
+			<coloridentity>GW</coloridentity>
+			<pt>1/3</pt>
+		</prop>
+		<set rarity="rare" uuid="92544994-47db-4830-a0de-45e0796b4a9b" num="0285" muid="0285">CA0</set>
+		<related>Spirited Companion</related>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Mindrake Trawler</name>
+		<text>When this creature enters, target opponent reveals their hand and you choose a nonland card from it. Exile that card.
+When this creature dies, target opponent creates a Clue token. (It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)</text>
+		<prop>
+			<type>Artifact Creature - Horror Construct</type>
+			<maintype>Creature</maintype>
+			<manacost>WB</manacost>
+			<cmc>2</cmc>
+			<colors>WB</colors>
+			<coloridentity>WB</coloridentity>
+			<pt>2/2</pt>
+		</prop>
+		<set rarity="rare" uuid="21e9302c-3197-452e-97cf-f076d596f8c5" num="0286" muid="0286">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Emergent Penmanship</name>
+		<text>When this enchantment enters, you may discard a card. If you do, draw a card.</text>
+		<prop>
+			<type>Enchantment</type>
+			<maintype>Enchantment</maintype>
+			<manacost>UR</manacost>
+			<cmc>2</cmc>
+			<colors>UR</colors>
+			<coloridentity>UR</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="a9cd45c2-084e-4d9e-a75f-818e364da78a" num="0287" muid="0287">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Resplendent Chargers</name>
+		<text>Trample, haste
+When this creature enters, create X 2/2 red Human Knight creature tokens with trample and haste. Until end of turn, whenever one or more creatures you control deal combat damage to a player, draw a card.</text>
+		<prop>
+			<type>Creature - Human Knight</type>
+			<maintype>Creature</maintype>
+			<manacost>XXRW</manacost>
+			<cmc>2</cmc>
+			<colors>RW</colors>
+			<coloridentity>RW</coloridentity>
+			<pt>2/2</pt>
+		</prop>
+		<set rarity="rare" uuid="aecc1376-7a8b-40a5-a3da-10c85a14d9c1" num="0289" muid="0289">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Terramancy</name>
+		<text>Exile all land cards from your graveyard, then sacrifice all lands you control, then put all cards exiled this way onto the battlefield under your control.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>GU</manacost>
+			<cmc>2</cmc>
+			<colors>GU</colors>
+			<coloridentity>GU</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="d721b4f2-93e9-4a72-b005-9dde913f65cf" num="0290" muid="0290">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Bloodblitz Battle-Axe</name>
+		<text>Equipped creature gets +1/+0 and has haste.
+Equip - Pay 3 life.</text>
+		<prop>
+			<type>Artifact - Equipment</type>
+			<maintype>Artifact</maintype>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+		</prop>
+		<set rarity="rare" uuid="aff4edca-9854-45e6-99d7-3c62b7ae2cc9" num="0301" muid="0301">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Mox Bismuth</name>
+		<text>When this artifact enters, you may exile an artifact card from your hand.
+{T}: Add one mana of any of the exiled card's colors.</text>
+		<prop>
+			<type>Artifact</type>
+			<maintype>Artifact</maintype>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+		</prop>
+		<set rarity="mythic" uuid="25941533-a6c4-493e-b906-e6bd520bb0d1" num="0302" muid="0302">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Vivacious Ridgeline</name>
+		<text>{T}: Add {C}.
+{2}: This land becomes a 2/2 Elemental creature until end of turn. It's still a land.
+{2}: Put a +1/+1 counter on this land.</text>
+		<prop>
+			<type>Land</type>
+			<maintype>Land</maintype>
+			<cmc>0</cmc>
+		</prop>
+		<set rarity="rare" uuid="0f4a1b00-3db7-448f-a82f-8a4fb96648b6" num="0303" muid="0303">CA0</set>
+		<tablerow>0</tablerow>
+	</card>
+	<card>
+		<name>Ulamog, Voracious Calamity</name>
+		<text>When you cast this spell, each player sacrifices all permanents they control that are one or more colors.
+Indestructible.
+Annihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents of their choice.)</text>
+		<prop>
+			<type>Legendary Creature - Eldrazi</type>
+			<maintype>Creature</maintype>
+			<manacost>10</manacost>
+			<cmc>10</cmc>
+			<pt>10/10</pt>
+		</prop>
+		<set rarity="mythic" uuid="2b6412a7-0890-499d-87aa-45b457b2c3d5" num="0304" muid="0304">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Omicranial Clamp</name>
+		<text>Equipped creature gets -1/-1
+Whenever equipped creature dies, draw a card.
+Equip {1}</text>
+		<prop>
+			<type>Artifact - Equipment</type>
+			<maintype>Artifact</maintype>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+		</prop>
+		<set rarity="uncommon" uuid="a696280a-9e06-4f93-be43-3d0e443ddbee" num="0305" muid="0305">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Chromatic Lotus</name>
+		<text>{2}, {T}, Sacrifice this artifact: Add three mana of any color.
+When this artifact is put into a graveyard from the battlefield, draw a card.</text>
+		<prop>
+			<type>Artifact</type>
+			<maintype>Artifact</maintype>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+		</prop>
+		<set rarity="uncommon" uuid="764da2b5-aa6b-4898-b967-c72e2b8e5e4e" num="0306" muid="0306">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Worldcarver Crucible</name>
+		<text>{T}, Sacrifice a land: Return target land card from your graveyard to the battlefield.
+{2}: Untap this artifact.</text>
+		<prop>
+			<type>Artifact</type>
+			<maintype>Artifact</maintype>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+		</prop>
+		<set rarity="mythic" uuid="6ba97f6e-3312-4271-9c29-e42315ce952a" num="0307" muid="0307">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Coveted Key</name>
+		<text>{1}, {T}: Untap target nonland permanent.
+{2}, {T}: You gain 2 life.
+{3}, {T}: Draw a card, then discard a card.
+{4}, {T}: Create a Treasure token.</text>
+		<prop>
+			<type>Artifact</type>
+			<maintype>Artifact</maintype>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+		</prop>
+		<set rarity="uncommon" uuid="a84474ae-89e7-43a4-ae35-aef56fc65f96" num="0308" muid="0308">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Insidious Mask</name>
+		<text>Equipped creature has shroud (It can't be the target of spells or abilities.)
+{2}: Equipped creature can't be blocked this turn.
+Equip {1}</text>
+		<prop>
+			<type>Artifact - Equipment</type>
+			<maintype>Artifact</maintype>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+		</prop>
+		<set rarity="uncommon" uuid="f6d031f7-df56-40d0-ba8e-34b0eae7c234" num="0309" muid="0309">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Starlight Cairn</name>
+		<text>{T}: Add {C}.
+Metalcraft - {T}: Add three mana in any combination of colors. Activate only if you control 3 or more artifacts.</text>
+		<prop>
+			<type>Land</type>
+			<maintype>Land</maintype>
+			<cmc>0</cmc>
+		</prop>
+		<set rarity="mythic" uuid="b23c5846-695c-460b-ae27-3d1ffe2498d9" num="0310" muid="0310">CA0</set>
+		<tablerow>0</tablerow>
+	</card>
+	<card>
+		<name>Multiform Mauler</name>
+		<text>This creature enters with X +1/+1 counters on it.
+When this creature dies, create a 1/1 colorless Thopter artifact creature token with flying and draw a card for each +1/+1 counter on this creature.
+Remove a +1/+1 counter from this creature: It deals 1 damage to any target.
+{1}, {T}: Put a +1/+1 counter on this creature.</text>
+		<prop>
+			<type>Artifact Creature - Construct</type>
+			<maintype>Creature</maintype>
+			<manacost>XX</manacost>
+			<cmc>0</cmc>
+			<pt>0/0</pt>
+		</prop>
+		<set rarity="mythic" uuid="cfb71f8f-4a4c-4051-a6d2-7bf4af6f447d" num="0311" muid="0311">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Karn's Bauble</name>
+		<text>{T}, Sacrifice this artifact: Add {C}. This mana can't be spent to cast a nonartifact spell. Draw a card at the beginning of the next turn's upkkeep.</text>
+		<prop>
+			<type>Artifact</type>
+			<maintype>Artifact</maintype>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+		</prop>
+		<set rarity="uncommon" uuid="8d712221-5ac5-4660-8b02-c350185fc609" num="0312" muid="0312">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Flooded Abyss</name>
+		<text>Vanishing 3 (This land enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When this land enters, exile target land an opponent controls until this land leaves the battlefield.</text>
+		<prop>
+			<type>Land</type>
+			<maintype>Land</maintype>
+			<cmc>0</cmc>
+		</prop>
+		<set rarity="rare" uuid="9523a7bd-be56-43d3-bf45-93984514f03a" num="0313" muid="0313">CA0</set>
+		<tablerow>0</tablerow>
+	</card>
+	<card>
+		<name>Terramorphic Vista</name>
+		<text>As this land enters, choose a basic land type. Then you may pay 1 life. If you don't, it enters tapped.
+This land is the chosen type.</text>
+		<prop>
+			<type>Land</type>
+			<maintype>Land</maintype>
+			<cmc>0</cmc>
+		</prop>
+		<set rarity="mythic" uuid="800cb252-4d6d-4e98-98d4-0ab0628246ac" num="0314" muid="0314">CA0</set>
+		<tablerow>0</tablerow>
+		<cipt>1</cipt>
+	</card>
+	<card>
+		<name>Prosperous Lotus</name>
+		<text>{T}: Add three mana in any combination of colors.
+{3}: Draw a card.</text>
+		<prop>
+			<type>Artifact</type>
+			<maintype>Artifact</maintype>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+		</prop>
+		<set rarity="rare" uuid="a1b5d271-bbd9-4fea-9a8d-28ae456c25e5" num="0315" muid="0315">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+  </cards>
+</cockatrice_carddatabase>
