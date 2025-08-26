@@ -16,3 +16,7 @@ An import for the custom card Candour format into the game platform Cockatrice.
 4. Under the "Card Database" tab click "Open Custom Image Folder"
 5. Move the folder you downloaded from Dropbox into this folder.
 6. Restart Cockatrice
+
+## NOTES
+- This is currently a WIP! All files are subject to sudden changes as the card file changes
+- Some cards currently have 'CA0' added to the end of their name - this is not permanent, it is just to prevent name conflicts
