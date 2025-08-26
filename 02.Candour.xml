@@ -976,5 +976,7 @@ At the beginning of your end step, if this enchantment has 10 or more quest coun
 		<set rarity="mythic" uuid="386e647a-fa1a-4134-9a33-b9febdae50a8" num="0127" muid="0127">CA0</set>
 		<tablerow>1</tablerow>
 	</card>
+
+
   </cards>
 </cockatrice_carddatabase>
