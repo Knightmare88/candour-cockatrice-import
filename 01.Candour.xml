@@ -454,20 +454,18 @@ When you cast this spell, destroy up to one target nonland permanent. Its contro
 		<tablerow>2</tablerow>
 	</card>
 	<card>
-		<name>White Orchid Exile</name>
-		<text>When this creature enters, you may sacrifice a land. If you do, create a 2/2 white Knight creature token.
-Warp {W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end ste, then you may cast it from exile on a later turn.)</text>
+		<name>Consign to Stardust</name>
+		<text>Return target spell to its owner's hand. That spell's owner can't cast spells with the same name as that spell untile end of turn.</text>
 		<prop>
-			<type>Creature - Spirit Knight</type>
-			<maintype>Creature</maintype>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
 			<manacost>1W</manacost>
 			<cmc>2</cmc>
 			<colors>W</colors>
 			<coloridentity>W</coloridentity>
-			<pt>1/1</pt>
 		</prop>
-		<set rarity="uncommon" uuid="8a766105-3916-4b39-b06a-52fb035296b8" num="0029" muid="0029">CA0</set>
-		<tablerow>2</tablerow>
+		<set rarity="uncommon" uuid="41d2f4b1-7dde-46b0-b21d-271e6dbe4172" num="0029" muid="0029">CA0</set>
+		<tablerow>3</tablerow>
 	</card>
 	<card>
 		<name>Sarpadian Dreadlands</name>
