@@ -234,5 +234,594 @@ At the beginning of your end step, mill a card.</text>
 		<set rarity="uncommon" uuid="17ba78d4-cda8-476a-871a-90fa48d9faaa" num="0142" muid="0142">CA0</set>
 		<tablerow>2</tablerow>
 	</card>
+	<card>
+		<name>Spellbomb Detonation</name>
+		<text>Spellbomb Detonation deals 1 damage to any target.
+Flashback - Sacrifice an artifact. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>R</manacost>
+			<cmc>1</cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="ec16bb7a-f23e-4bb4-94d2-ddaef83e40bc" num="0151" muid="0151">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Glitterfowl Curio</name>
+		<text>When this artifact enters or leaves the battlefield, exile the top card of your library. Until the end of your next turn, you may play that card.
+{R}, Sacrifice this artifact: Create a Treasure token.</text>
+		<prop>
+			<type>Artifact</type>
+			<maintype>Artifact</maintype>
+			<manacost>R</manacost>
+			<cmc>1</cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="7c235d49-2b51-4cf0-b857-171ca69129c0" num="0152" muid="0152">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Divine Deflagration</name>
+		<text>This spell can't be countered.
+Divine Deflagration deals 5 damage divided as you choose among any number of target white and/or blue creatures.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>1R</manacost>
+			<cmc>2</cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="fbd8273b-d79e-4025-9a4c-ad367e63dbef" num="0153" muid="0153">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Stonesmelt Regent</name>
+		<text>Flying
+When this creature enters, it deals 2 damage to any target.
+Evoke - Sacrifice an artifact or land.</text>
+		<prop>
+			<type>Creature - Elemental Dragon</type>
+			<maintype>Creature</maintype>
+			<manacost>2RR</manacost>
+			<cmc>4</cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+			<pt>5/4</pt>
+		</prop>
+		<set rarity="rare" uuid="26f366a0-708f-4bda-8bd6-6d7bddd45951" num="0154" muid="0154">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Artificial Creativity</name>
+		<text>Destroy X target artifacts. For each permanent destroyed this way, its controller reveals cards from the top of their library until an artifact card is revealed and exiles that card. Those players put the exiled cards onto the battlefield, then shuffle.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>XR</manacost>
+			<cmc>1</cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+		</prop>
+		<set rarity="mythic" uuid="daa6d5e1-cf71-47c3-91ad-5a0678862449" num="0155" muid="0155">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Starfall Impact</name>
+		<text>Create a tapped colorless artifact token named Meteorite with "When this token enters, it deals 2 damage to any target." and "{T}" Add one mana of any color."
+Flashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>2R</manacost>
+			<cmc>3</cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="7fb4c747-3326-4e66-96ce-0e11d39ddba5" num="0156" muid="0156">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Force of Impulse</name>
+		<text>You may pay 1 life and exile a red card from your hand rather than pay this spell's mana cost.
+Exile the top two cards of your library. Until the end of your next turn you may play those cards.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>1R</manacost>
+			<cmc>2</cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+		</prop>
+		<set rarity="mythic" uuid="8f02c8c4-74eb-4a5a-9bfa-6eab265dd5fa" num="0157" muid="0157">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Agony Revenant</name>
+		<text>Flying
+When this creature enters, discard your hand, then draw three cards.
+Escape - {2}{R}{R}, Exil efive other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
+This creature escapes with two +1/+1 counters on it.</text>
+		<prop>
+			<type>Creature - Demon</type>
+			<maintype>Creature</maintype>
+			<manacost>1RR</manacost>
+			<cmc>3</cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+			<pt>2/1</pt>
+		</prop>
+		<set rarity="mythic" uuid="bd380d81-95fb-49b5-9856-dcf95d537008" num="0158" muid="0158">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Guide of Questionable Authenticity</name>
+		<text>Haste
+Whenever this creature attacks, flip a coin. If you lose the flip, this creature deals 4 damage to you.</text>
+		<prop>
+			<type>Creature - Goblin Scout</type>
+			<maintype>Creature</maintype>
+			<manacost>R</manacost>
+			<cmc>1</cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+			<pt>3/1</pt>
+		</prop>
+		<set rarity="rare" uuid="8dd60bf6-830c-44a9-b1e1-46bc5064abc8" num="0159" muid="0159">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Ire</name>
+		<text>Double strike
+When this creature enters, creatures you control get +1/+0 and gain haste until end of turn.
+Evoke - Exile a red card from your hand.</text>
+		<prop>
+			<type>Creature - Elemental Incarnation</type>
+			<maintype>Creature</maintype>
+			<manacost>1RR</manacost>
+			<cmc>3</cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="mythic" uuid="523dc1c6-38be-4740-8d70-b2c51bb86452" num="0160" muid="0160">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Omicron Cannoneer</name>
+		<text>Ward {1}
+Whenever this creature or another artifact you control enters, put a +1/+1 counter on this creature and it deals damage equal to its power to each opponent. This ability triggers only once each turn.</text>
+		<prop>
+			<type>Artifact Creature - Cat Golem</type>
+			<maintype>Creature</maintype>
+			<manacost>R</manacost>
+			<cmc>1</cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+			<pt>0/1</pt>
+		</prop>
+		<set rarity="rare" uuid="ac26e944-d04c-438f-b875-e09abadf2144" num="0161" muid="0161">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Candid Scoundrel</name>
+		<text>Menace
+When this creature enters, choose one -
+• Discard a card, then draw a card.
+• Create a Treasure token.
+• Put a +1/+1 counter on another target creature.
+• This creature deals 2 damage to each opponent.</text>
+		<prop>
+			<type>Creature - Human Rogue</type>
+			<maintype>Creature</maintype>
+			<manacost>R</manacost>
+			<cmc></cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="rare" uuid="8e94e78f-0a80-472d-a334-038d398406ca" num="0162" muid="0162">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Onyx Instigator</name>
+		<text>Flying
+Whenever a palyer draws a card, this creature deals 2 damage to that player.
+Players can't gain life.
+Damage can't be prevented.</text>
+		<prop>
+			<type>Creature - Elemental Dragon</type>
+			<maintype>Creature</maintype>
+			<manacost>2R</manacost>
+			<cmc>3</cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+			<pt>3/3</pt>
+		</prop>
+		<set rarity="rare" uuid="9355de26-4354-47e9-bc3a-b04427ab11cc" num="0163" muid="0163">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Parallax Blaze</name>
+		<text>This enchantment enters with 4 fate counters on it.
+Remove a fate counter from this enchantment: This enchantment deals 3 damage to target creature. If there are no fate counters on this enchantment, sacrifice it. Activate only once each turn.
+Damage isn't removed from creatures during cleanup steps.</text>
+		<prop>
+			<type>Enchantment</type>
+			<maintype>Enchantment</maintype>
+			<manacost>2RR</manacost>
+			<cmc>4</cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+		</prop>
+		<set rarity="mythic" uuid="693c6963-4b5b-4651-9549-1e56f1f3064c" num="0164" muid="0164">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Chandra, Young Pyromancer</name>
+		<text>When Chandra enters, it deals 2 damage to each opponent.
+[+1]: Create a 1/1 red Elemental creature token if you've cast an instant or sorcery spell this turn.
+[-3]: Discard two cards, then draw two cards. For each nonland card discarded this way, create a 1/1 red Elemental creature token.</text>
+		<prop>
+			<type>Legendary Planeswalker - Chandra</type>
+			<maintype>Planeswalker</maintype>
+			<manacost>R</manacost>
+			<cmc>1</cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+			<loyalty>1</loyalty>
+		</prop>
+		<set rarity="mythic" uuid="a458141b-fe33-4087-91f5-6f977025364e" num="0165" muid="0165">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Lunar Armageddon</name>
+		<text>At the beginning of your end step, destroy target nonbasic land chosen at random.</text>
+		<prop>
+			<type>Enchantment</type>
+			<maintype>Enchantment</maintype>
+			<manacost>1R</manacost>
+			<cmc>2</cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="5f654bb0-925c-4b11-9a1d-ee6b642a8795" num="0166" muid="0166">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Kaleidoclasm</name>
+		<text>Converge - Kaleidoclasm deals damage to each creature equal to the number of colors of mana spent to cast this spell.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>XR</manacost>
+			<cmc>1</cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="b5c785de-5590-43e4-a9aa-aa060d7c81b3" num="0167" muid="0167">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Delusions of Grandeur</name>
+		<text>Gain control of target creature with mana value 3 or less until end of turn. It gets +2/+0 and gains trample and haste until end of turn.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>R</manacost>
+			<cmc>1</cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="af91b361-7dfd-427e-904c-9250ae77ffb4" num="0168" muid="0168">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Pryoclastic Captain</name>
+		<text>When this creature enters, add {R}.
+Whenever you cast your second spell each turn, this creature becomes a 4/4 Elemental with flying and haste in addition to its other types until end of turn.</text>
+		<prop>
+			<type>Creature - Skeleton Pirate</type>
+			<maintype>Creature</maintype>
+			<manacost>1R</manacost>
+			<cmc>2</cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+			<pt>2/1</pt>
+		</prop>
+		<set rarity="uncommon" uuid="8aa89547-23b8-40cb-8f04-0331082ac519" num="0169" muid="0169">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Smiting Bolt</name>
+		<text>Smiting Bolt deals 3 damage to any target.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>R</manacost>
+			<cmc>1</cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="7b7e7482-6116-49d6-a830-3880d6258612" num="0170" muid="0170">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Crust Dismantler</name>
+		<text>Trample, haste
+When this Vehicle enters, destroy target noncreature, nonland permanent.
+Whenever this Vehicle deals combat damage to a player, draw two cards, then discard a card. Then, if each player descended this turn, destroy target noncreature, nonland permanent.
+Crew 2</text>
+		<prop>
+			<type>Artifact - Vehicle</type>
+			<maintype>Artifact</maintype>
+			<manacost>3R</manacost>
+			<cmc>4</cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+			<pt>4/4</pt>
+		</prop>
+		<set rarity="rare" uuid="0e31db06-822a-49f8-8e28-6d7653aa8b96" num="0171" muid="0171">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Nissa, Unbound Animist</name>
+		<text>[+1]: Choose land or nonland. Reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and the rest on the bottom of your library in a random order.
+[0]: Create an X/X green elemental creature token, where X is Nissa's loyalty.
+[-3]: Return all land cards from your graveyard to the battlefield.</text>
+		<prop>
+			<type>Legendary Planeswalker - Nissa</type>
+			<maintype>Planeswalker</maintype>
+			<manacost>2GG</manacost>
+			<cmc>4</cmc>
+			<colors>G</colors>
+			<coloridentity>G</coloridentity>
+			<loyalty>4</loyalty>
+		</prop>
+		<set rarity="mythic" uuid="786111ba-bab7-4169-8ef7-014bb995c552" num="0201" muid="0201">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Nissa's Binding</name>
+		<text>Choose one or both-
+• Exile target artifact or enchantment.
+• Exile target card from a graveyard.
+Forestcycling {1} ({1}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Insect</maintype>
+			<manacost>1G</manacost>
+			<cmc>2</cmc>
+			<colors>G</colors>
+			<coloridentity>G</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="8e66333d-8a89-4a3b-9f23-ad37d794a15e" num="0202" muid="0202">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Crystalline Petroglyph</name>
+		<text>When this artifact enters or leaves the battlefield, look at the top three cards of your library. You may reveal a colorless card from among them and put it into your hand. Then put the rest on the bottom of your library in any order.
+{1}{G}, Sacrifice this artifact: You gain 4 life.</text>
+		<prop>
+			<type>Artifact</type>
+			<maintype>Artifact</maintype>
+			<manacost>G</manacost>
+			<cmc>1</cmc>
+			<colors>G</colors>
+			<coloridentity>G</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="75c20f20-ca84-4a68-b6c8-59e088442d26" num="0203" muid="0203">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Lifecraft Sprite</name>
+		<text>Flying
+Fabricate 2 (When this creature enters, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.)
+Whenever an artifact you control enters, you gain X life, where X is this creature's toughness.</text>
+		<prop>
+			<type>Creature - Faerie Artificer</type>
+			<maintype>Creature</maintype>
+			<manacost>1G</manacost>
+			<cmc>2</cmc>
+			<colors>G</colors>
+			<coloridentity>G</coloridentity>
+			<pt>0/1</pt>
+		</prop>
+		<set rarity="rare" uuid="f901097c-167c-4f7f-a343-d243f4591b83" num="0204" muid="0204">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Skysprite Germinator</name>
+		<text>Flash
+Flying
+When this creature enters, mill four cards. You may put a land card from among them into your hand. If you don't, put a +1/+1 counter on target creature.</text>
+		<prop>
+			<type>Creature - Faerie Dragon</type>
+			<maintype>Creature</maintype>
+			<manacost>1G</manacost>
+			<cmc>2</cmc>
+			<colors>G</colors>
+			<coloridentity>G</coloridentity>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="uncommon" uuid="12c7df27-2a7a-44fe-a38f-288ff9848938" num="0205" muid="0205">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Force of Burgeoning</name>
+		<text>You may pay 1 life and exile a green card from your hand rather than pay this spell's mana cost.
+You may play up to three additional lands this turn.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>1G</manacost>
+			<cmc>2</cmc>
+			<colors>G</colors>
+			<coloridentity>G</coloridentity>
+		</prop>
+		<set rarity="mythic" uuid="86665bc1-bc67-4dd5-ae7f-ed6f9785d978" num="0206" muid="0206">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Thriving Order</name>
+		<text>As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value 5 or less, put it onto the battlefield, then shuffle.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>1GG</manacost>
+			<cmc>3</cmc>
+			<colors>G</colors>
+			<coloridentity>G</coloridentity>
+		</prop>
+		<set rarity="mythic" uuid="85e3aba0-dfef-4b97-97c8-bbe3697d1221" num="0207" muid="0207">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Llanowar Tracker</name>
+		<text>{T}: Add {G}.</text>
+		<prop>
+			<type>Creature - Elf Warrior</type>
+			<maintype>Creature</maintype>
+			<manacost>G</manacost>
+			<cmc>1</cmc>
+			<colors>G</colors>
+			<coloridentity>G</coloridentity>
+			<pt>2/1</pt>
+		</prop>
+		<set rarity="uncommon" uuid="f485bf39-3975-4d44-85b9-8aab08a13e51" num="0208" muid="0208">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Amathrassil, Crux of Bounty</name>
+		<text>{T}, Exert Amathrassil: Put a bounty counter on Amathrassil. Add X mana in any combination of colors, draw X cards, and create an X/X green Elemental creature token, where X is the number of bounty counters on Amathrassil. (An exerted permanent won't untap during your next untap step.)</text>
+		<prop>
+			<type>Legendary Artifact</type>
+			<maintype>Artifact</maintype>
+			<manacost>1GG</manacost>
+			<cmc>3</cmc>
+			<colors>G</colors>
+			<coloridentity>G</coloridentity>
+		</prop>
+		<set rarity="mythic" uuid="53f07479-1db4-4d00-854f-93319b4d4624" num="0209" muid="0209">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Oldgrowth Treant</name>
+		<text>Whenever this creature enters or attacks, choose two -
+• Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+• You gain 4 life.
+• Draw a card.
+• Create two 1/1 green Saproling creature tokens.
+• Put a +1/+1 counter on each creature you control.</text>
+		<prop>
+			<type>Creature - Elemental</type>
+			<maintype>Creature</maintype>
+			<manacost>3GG</manacost>
+			<cmc>5</cmc>
+			<colors>G</colors>
+			<coloridentity>G</coloridentity>
+			<pt>4/4</pt>
+		</prop>
+		<set rarity="mythic" uuid="33379db1-1266-4f05-97c6-165aa6cd397b" num="0210" muid="0210">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Bile</name>
+		<text>Flash
+Deathtouch
+When this creature enters, destroy up to one target artifact or enchantment.
+Evoke - Exile a green card from your hand.</text>
+		<prop>
+			<type>Creature - Elemental Incarnation</type>
+			<maintype>Creature</maintype>
+			<manacost>GG</manacost>
+			<cmc>2</cmc>
+			<colors>G</colors>
+			<coloridentity>G</coloridentity>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="mythic" uuid="c919dbc3-548d-4ff0-9dde-9f948b9ada7a" num="0211" muid="0211">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Wilderness Rendezvous</name>
+		<text>Flash
+At the beginning of your end step, untap all permanents you control.</text>
+		<prop>
+			<type>Enchantment</type>
+			<maintype>Enchantment</maintype>
+			<manacost>3G</manacost>
+			<cmc>4</cmc>
+			<colors>G</colors>
+			<coloridentity>G</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="ece555fc-2c26-43c7-8864-d74198fa85a8" num="0212" muid="0212">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Odyssey</name>
+		<text>When this enchantment enters, untap up to two lands.
+At the beginning of each end step, if you've cast both a creature spell and a noncreature spell this turn, draw a card, then you may put a land card from your hand onto the battlefield.</text>
+		<prop>
+			<type>Enchantment</type>
+			<maintype>Enchantment</maintype>
+			<manacost>1G</manacost>
+			<cmc>2</cmc>
+			<colors>G</colors>
+			<coloridentity>G</coloridentity>
+		</prop>
+		<set rarity="mythic" uuid="6c0f425e-f275-45b6-9557-819a34b90033" num="0213" muid="0213">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Bonded Hermit</name>
+		<text>Flash
+When this creature enters, look at the top six cards of your library. Put a creature card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.</text>
+		<prop>
+			<type>Creature - Human Druid</type>
+			<maintype>Creature</maintype>
+			<manacost>2GG</manacost>
+			<cmc>4</cmc>
+			<colors>G</colors>
+			<coloridentity>G</coloridentity>
+			<pt>3/3</pt>
+		</prop>
+		<set rarity="rare" uuid="5942d7b0-fecd-40b0-a8a7-649a1a3aaa6a" num="0214" muid="0214">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Polychrome Metamorphosis</name>
+		<text>Converge - Untap up to one target land for each color of mana spent to cast this spell.
+Draw a card.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>XG</manacost>
+			<cmc>1</cmc>
+			<colors>G</colors>
+			<coloridentity>G</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="191ae78f-c521-4a96-83df-e9e1b83d2b11" num="0215" muid="0215">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Arboreal Majesty</name>
+		<text>Whenever you cast a spell with mana value 4 or greater, draw a card.</text>
+		<prop>
+			<type>Enchantment</type>
+			<maintype>Enchantment</maintype>
+			<manacost>G</manacost>
+			<cmc>1</cmc>
+			<colors>G</colors>
+			<coloridentity>G</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="b1315c94-615c-40e9-a38e-9382d1a03cb1" num="0216" muid="0216">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
   </cards>
 </cockatrice_carddatabase>
