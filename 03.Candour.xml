@@ -235,6 +235,23 @@ At the beginning of your end step, mill a card.</text>
 		<tablerow>2</tablerow>
 	</card>
 	<card>
+		<name>Erudition Dissolution</name>
+		<text>Flash
+When this enchantment enters, destroy up to one target creature.
+Creatures lose all abilities.
+At the beginning of the end step, sacrifice this enchantment.</text>
+		<prop>
+			<type>Enchantment</type>
+			<maintype>Enchantment</maintype>
+			<manacost>BB</manacost>
+			<cmc>2</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="737255cf-b68b-4051-aa95-658d3e2042e8" num="0143" muid="0143">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
 		<name>Spellbomb Detonation</name>
 		<text>Spellbomb Detonation deals 1 damage to any target.
 Flashback - Sacrifice an artifact. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
@@ -521,7 +538,7 @@ Damage isn't removed from creatures during cleanup steps.</text>
 		<tablerow>3</tablerow>
 	</card>
 	<card>
-		<name>Pryoclastic Captain</name>
+		<name>Pyroclastic Captain</name>
 		<text>When this creature enters, add {R}.
 Whenever you cast your second spell each turn, this creature becomes a 4/4 Elemental with flying and haste in addition to its other types until end of turn.</text>
 		<prop>
@@ -567,6 +584,20 @@ Crew 2</text>
 		</prop>
 		<set rarity="rare" uuid="0e31db06-822a-49f8-8e28-6d7653aa8b96" num="0171" muid="0171">CA0</set>
 		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Echoes of Valour</name>
+		<text>Create a token that's a copy of target artifact or creature, then sacrifice that token.</text>
+		<prop>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>R</manacost>
+			<cmc>1</cmc>
+			<colors>R</colors>
+			<coloridentity>R</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="f8672838-4eb4-4260-957f-e538fac7f102" num="0172" muid="0172">CA0</set>
+		<tablerow>3</tablerow>
 	</card>
 	<card>
 		<name>Nissa, Unbound Animist</name>
@@ -822,6 +853,20 @@ Draw a card.</text>
 		</prop>
 		<set rarity="uncommon" uuid="b1315c94-615c-40e9-a38e-9382d1a03cb1" num="0216" muid="0216">CA0</set>
 		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Feral Rage</name>
+		<text>Target creature gets +X/+0 and gains trample untile the end of its controller's next turn, where X is its power. At the beginning of its controller's next end step, it deals damage to iteslf equal to its power.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>G</manacost>
+			<cmc>1</cmc>
+			<colors>G</colors>
+			<coloridentity>G</coloridentity>
+		</prop>
+		<set rarity="mythic" uuid="6fd2f08a-dde3-4ea2-b89a-920413f58da6" num="0217" muid="0217">CA0</set>
+		<tablerow>3</tablerow>
 	</card>
   </cards>
 </cockatrice_carddatabase>
