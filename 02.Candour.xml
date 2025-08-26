@@ -51,7 +51,7 @@ Discard a card: This creature gains flying until end of turn.</text>
 		<tablerow>1</tablerow>
 	</card>
 	<card>
-		<name>Tempest Angler</name>
+		<name>Tempest Angler CA0</name>
 		<text>Flash
 When this creature enters, the owner of target spell or nonland permanent puts it on their choice of the top or bottom of their library.</text>
 		<prop>
@@ -131,7 +131,7 @@ When this creature enters, if you cast it, exile target artifact, instant, or so
 	<card>
 		<name>Ancestral Ambition</name>
 		<text>Target player draws four cards, then discards three cards.
-Flashback {U} (You may cast this card from your graveyard for its flashback cost. Then exile it.</text>
+Flashback {U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 		<prop>
 			<type>Sorcery</type>
 			<maintype>Sorcery</maintype>
@@ -550,7 +550,7 @@ When this Aura is put into a graveyard from the battlefield, return it to its ow
 		<tablerow>1</tablerow>
 	</card>
 	<card>
-		<name>Trap Essence</name>
+		<name>Trap Essence CA0</name>
 		<text>This spell costs {2} less to cast if it targets a red or green spell.
 Counter target spell.</text>
 		<prop>
@@ -976,7 +976,5 @@ At the beginning of your end step, if this enchantment has 10 or more quest coun
 		<set rarity="mythic" uuid="386e647a-fa1a-4134-9a33-b9febdae50a8" num="0127" muid="0127">CA0</set>
 		<tablerow>1</tablerow>
 	</card>
-
-
   </cards>
 </cockatrice_carddatabase>
