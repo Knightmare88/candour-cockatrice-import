@@ -534,7 +534,7 @@ Exile a spell you control: Draw a card.</text>
 		<set rarity="uncommon" uuid="529fe04b-d808-442a-a7a2-2ab6ba268c42" num="0094" muid="0094">CA0</set>
 		<tablerow>3</tablerow>
 	</card>
-	  	<card>
+	<card>
 		<name>Curious Peregrination</name>
 		<text>Enchanted creature gets +1/+0 and has "Whenever this creature deals combat damage to a player, you may draw a card."
 When this Aura is put into a graveyard from the battlefield, return it to its owner's hand.</text>
@@ -564,7 +564,7 @@ Counter target spell.</text>
 		<set rarity="rare" uuid="399b83a9-aa30-495f-8b35-ab0708c23b98" num="096" muid="0096">CA0</set>
 		<tablerow>3</tablerow>
 	</card>
-	  	<card>
+	<card>
 		<name>Force of Anguish</name>
 		<text>You may pay 1 life and exile a black card from your hand rather than pay this spell's mana cost.
 Distribute four -1/-1 counters among any number of target creatures.</text>
@@ -625,6 +625,22 @@ At the beginning of your upkeep, you lose 1 life and create a 1/1 black Snake cr
 			<pt>1/2</pt>
 		</prop>
 		<set rarity="rare" uuid="3b8f629b-811f-4326-a68a-688d848a6130" num="0106" muid="0106">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Swift Shadowhawk</name>
+		<text>Flying
+Whenever this creature deals combat damage to a player, create a Blood token and exile the top card of that player's library. Until end of turn, you may cast that card.</text>
+		<prop>
+			<type>Creature - Bird</type>
+			<maintype>Creature</maintype>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="mythic" uuid="d20b6a4d-7772-43d8-873d-4293a768a4a2" num="0104" muid="0104">CA0</set>
 		<tablerow>2</tablerow>
 	</card>
 	<card>
@@ -738,7 +754,7 @@ When this creature enters, you may destroy another target creature. If a creatur
 		<tablerow>3</tablerow>
 	</card>
 	<card>
-		<name>Liliana, of Deaths Design</name>
+		<name>Liliana, of Death's Design</name>
 		<text>[+1]: Look at the top card of your library. You may reveal that card and put it into your hand. If you do, you lose life equal to its mana value.
 [-1]: Target player loses 3 life and you gain 3 life.
 [-2]: Target player exiles a creature they control.</text>
@@ -910,6 +926,24 @@ Embalmb {1}{W} ({1}{W}, Exile this card from your graveyard: Create a token that
 		<tablerow>2</tablerow>
 	</card>
 	<card>
+		<name>Misery</name>
+		<text>Flash
+Menace
+When this creature enters, exile all cards from target player's graveyard. Each opponent loses 1 life and you gain 1 life for each creature card exiled this way.
+Evoke-Exile a black card from your hand.</text>
+		<prop>
+			<type>Creature - Elemental Incarnation</type>
+			<maintype>Creature</maintype>
+			<manacost>2BB</manacost>
+			<cmc>4</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+			<pt>5/3</pt>
+		</prop>
+		<set rarity="mythic" uuid="ade003ed-bf6a-43c2-97ef-fae85596daa1" num="0124" muid="0124">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
 		<name>Deathrite Mystic</name>
 		<text>{1}: Exile target card from a graveyard.
 {T}: Put target card exiled with this creature into its owner's graveyard, choose one-
@@ -942,38 +976,7 @@ At the beginning of your end step, if this enchantment has 10 or more quest coun
 		<set rarity="mythic" uuid="386e647a-fa1a-4134-9a33-b9febdae50a8" num="0127" muid="0127">CA0</set>
 		<tablerow>1</tablerow>
 	</card>
-	<card>
-		<name>Unforgiving Nightmare</name>
-		<text>You control target player during that player's next turn.
-Discard your hand.</text>
-		<prop>
-			<type>Sorcery</type>
-			<maintype>Sorcery</maintype>
-			<manacost>1BBBB</manacost>
-			<cmc>5</cmc>
-			<colors>B</colors>
-			<coloridentity>B</coloridentity>
-		</prop>
-		<set rarity="mythic" uuid="dad8aaa0-07c1-4198-9e35-4e63cc9a6e7c" num="0128" muid="0128">CA0</set>
-		<tablerow>3</tablerow>
-	</card>
-	<card>
-		<name>Dance with Fatality</name>
-		<text>Roll a d20.
-1-5 | Each opponent sacrifices two creatures.
-6-10 | Each opponent discards two cards.
-11+ | Each opponent loses 5 life.</text>
-		<prop>
-			<type>Sorcery</type>
-			<maintype>Sorcery</maintype>
-			<manacost>B</manacost>
-			<cmc>1</cmc>
-			<colors>B</colors>
-			<coloridentity>B</coloridentity>
-		</prop>
-		<set rarity="rare" uuid="9db07210-0d58-4af0-94cc-15561ba082ce" num="0129" muid="0129">CA0</set>
-		<tablerow>3</tablerow>
-	</card>
+
+
   </cards>
 </cockatrice_carddatabase>
-
