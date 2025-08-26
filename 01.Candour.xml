@@ -173,7 +173,7 @@ Flying, lifelink
 		<tablerow>2</tablerow>
 	</card>
 	<card>
-		<name>Journey to Oblivion</name>
+		<name>Journey to Oblivion CA0</name>
 		<text>Exile target creature or planeswalker. Its controller creates a tapped colorless land token named Everywhere that is every basic land type.</text>
 		<prop>
 			<type>Instant</type>
@@ -768,7 +768,7 @@ Eternalize {2}{W}{W}</text>
 		<set rarity="mythic" uuid="736f94f0-8491-44a7-ad20-f069c0f2d5c1" num="0048" muid="0048">CA0</set>
 		<tablerow>3</tablerow>
 	</card>
-		<card>
+	<card>
 		<name>Thalia, Steadfast Cathar</name>
 		<text>Vigilance
 Whenever Thalia deals combat damage to a player, investicate. (Create a Clue artifact token with "{2}, Sacrifice this token: Draw a card.")
