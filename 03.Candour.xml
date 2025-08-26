@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+  </sets>
+  <cards>
+	<card>
+		<name>Unforgiving Nightmare</name>
+		<text>You control target player during that player's next turn.
+Discard your hand.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>1BBBB</manacost>
+			<cmc>5</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="mythic" uuid="dad8aaa0-07c1-4198-9e35-4e63cc9a6e7c" num="0128" muid="0128">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Dance with Fatality</name>
+		<text>Roll a d20.
+1-5 | Each opponent sacrifices two creatures.
+6-10 | Each opponent discards two cards.
+11+ | Each opponent loses 5 life.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="9db07210-0d58-4af0-94cc-15561ba082ce" num="0129" muid="0129">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+		<card>
+		<name>Ghoulcalling</name>
+		<text>When this enchantment enters and at the beginning of your upkeep, exile up to one target creature card from a graveyard. If you exiled a card this way, create a token that's a copy of that card, except it's a 1/1 white Spirit with flying.</text>
+		<prop>
+			<type>Enchantment</type>
+			<maintype>Enchantment</maintype>
+			<manacost>1BB</manacost>
+			<cmc>3</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="938e5d7b-96e0-48b1-b6d4-9d40aa252a58" num="0130" muid="0130">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Barren Doom</name>
+		<text>At the beginning of each player's upkeep, that player sacrifices a nonland, nontoken permanent of their choice. If that player can't, they discard two cards, they lose 3 life, you draw two cards, you gain 3 life, then you sacrifice this enchantment.</text>
+		<prop>
+			<type>Enchantment</type>
+			<maintype>Enchantment</maintype>
+			<manacost>3B</manacost>
+			<cmc>4</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="11d2ca47-41b9-46d1-a29a-f0b722bed61a" num="0131" muid="0131">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Bowmaster Revenant</name>
+		<text>Flash
+Deathtouch
+When this creature enters, it deals 2 damage to any target.</text>
+		<prop>
+			<type>Creature - Skeleton Archer</type>
+			<maintype>Creature</maintype>
+			<manacost>2BB</manacost>
+			<cmc>4</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+			<pt>4/2</pt>
+		</prop>
+		<set rarity="rare" uuid="9fd6381b-87c1-482a-8f94-1935ab22afdb" num="0132" muid="0132">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Corpsewail Corsair</name>
+		<text>Menace, deathtouch
+Whenever this creature attacks, you lose 1 life and draw a card.
+Unearth {B} ({B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+		<prop>
+			<type>Creature - Human Pirate</type>
+			<maintype>Creature</maintype>
+			<manacost>2B</manacost>
+			<cmc>3</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+			<pt>2/4</pt>
+		</prop>
+		<set rarity="rare" uuid="be4dc1e2-bee7-46df-a0bc-9c3bdbebc46b" num="0133" muid="0133">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Midnight Prowl</name>
+		<text>Creatures you control gain intimidate until end of turn. (They can’t be blocked except by artifact creatures and/or creatures that share a color with them.)
+Until end of turn, whenever a creature you control deals combat damage to a player, put a +1/+1 counter on that creature and that player loses 1 life.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>1B</manacost>
+			<cmc>2</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="rare" uuid="fcf97a2b-26bc-4fab-bf77-9a3e3e76619f" num="0134" muid="0134">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Afflicted Dagger</name>
+		<text>When this Equipment enters, attach it to target creature.
+Whenever this Equipment becomes attached to a creature, this Equipment deals 2 damage to that creature.
+Equipped creature gets +3/+0.
+Equip {0}. Activate only once each turn.</text>
+		<prop>
+			<type>Artifact - Equipment</type>
+			<maintype>Artifact</maintype>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="3893820b-3ab8-44ab-ae6f-70aaba3167df" num="0135" muid="0135">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Blighted Stinger</name>
+		<text>Flying
+Whenever this creature is dealt damage, it deals that much damage to you.</text>
+		<prop>
+			<type>Creature - Insect Horror</type>
+			<maintype>Creature</maintype>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+			<pt>2/3</pt>
+		</prop>
+		<set rarity="uncommon" uuid="80ae68ab-3656-47fa-95c6-bd8e2270dfd0" num="0136" muid="0136">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Fading Battlefield</name>
+		<text>Vanishing 2 (This land enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+{T}: Add {B} for each time counter on this land.</text>
+		<prop>
+			<type>Land</type>
+			<maintype>Land</maintype>
+			<cmc>0</cmc>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="mythic" uuid="b27e02bc-90df-4b1d-9f33-55bd0802058d" num="0137" muid="0137">CA0</set>
+		<tablerow>0</tablerow>
+	</card>
+	<card>
+		<name>Necropolis Seed Engine</name>
+		<text>When this artifact enters or leaves the battlefield, each opponent sacrifices two creatures.
+Sacrifice this artifact: Put target creature card from a graveyard onto the battlefield under your control.</text>
+		<prop>
+			<type>Legendary Artifact</type>
+			<maintype>Artifact</maintype>
+			<manacost>4BB</manacost>
+			<cmc>6</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="mythic" uuid="115f0ea3-6c16-4685-91ec-92dbbea6d2e4" num="0138" muid="0138">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Malevolent Tranquility</name>
+		<text>Flahs
+Creatures get -1/-1</text>
+		<prop>
+			<type>Enchantment</type>
+			<maintype>Enchantment</maintype>
+			<manacost>BB</manacost>
+			<cmc>2</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="32d9fbed-989d-4181-8912-bf1eac59eb94" num="0139" muid="0139">CA0</set>
+		<tablerow>1</tablerow>
+	</card>
+	<card>
+		<name>Opalescent Effacement</name>
+		<text>Converge - Target player loses 2 life for each color of mana spent to cast this spell.</text>
+		<prop>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>XB</manacost>
+			<cmc>1</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+		</prop>
+		<set rarity="uncommon" uuid="efbe33be-56c2-4f70-acde-fb06e81d71fc" num="0140" muid="0140">CA0</set>
+		<tablerow>3</tablerow>
+	</card>
+	<card>
+		<name>Bloodcrazed Brawler</name>
+		<text>This creature costs {1} less to cast for each 1 life you lost this turn.
+{B}, Discard a card: Put a +1/+1 counter on this creature, it gains indestructible until end of turn.</text>
+		<prop>
+			<type>Creature - Vampire Warrior</type>
+			<maintype>Creature</maintype>
+			<manacost>5B</manacost>
+			<cmc>6</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+			<pt>3/3</pt>
+		</prop>
+		<set rarity="rare" uuid="d7b5411c-af8d-4db5-8e2b-d3b8a5834c55" num="0141" muid="0141">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+	<card>
+		<name>Grave Trawler</name>
+		<text>When this creature enters or leaves the battlefield, mill three cards.
+At the beginning of your end step, mill a card.</text>
+		<prop>
+			<type>Creature - Spirit</type>
+			<maintype>Creature</maintype>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+			<pt>2/1</pt>
+		</prop>
+		<set rarity="uncommon" uuid="17ba78d4-cda8-476a-871a-90fa48d9faaa" num="0142" muid="0142">CA0</set>
+		<tablerow>2</tablerow>
+	</card>
+  </cards>
+</cockatrice_carddatabase>
